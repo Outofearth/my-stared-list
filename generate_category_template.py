@@ -224,12 +224,15 @@ def group_by_keywords(stars):
     }
 
     def auto_categorize(name_lower):
-        """自动为仓库分类"""
-        matched = set()
+        """自动为仓库分类 - 返回最佳匹配的单个类别"""
+        best_group = None
+        best_match_count = 0
         for group, keywords in keyword_map.items():
-            if any(kw in name_lower for kw in keywords):
-                matched.add(group)
-        return matched
+            match_count = sum(1 for kw in keywords if kw in name_lower)
+            if match_count > best_match_count:
+                best_match_count = match_count
+                best_group = group
+        return best_group
 
     # 加载旧配置
     old_config_path = "star-category-by-keywords.yaml"
@@ -251,30 +254,29 @@ def group_by_keywords(stars):
         # 检查是否已在旧配置中
         if full_name in old_repo_categories:
             old_categories = old_repo_categories[full_name]
-            auto_categories = auto_categorize(name_lower)
+            auto_category = auto_categorize(name_lower)
 
-            # 如果自动分类结果与旧分类一致，保留旧分类
-            if old_categories == auto_categories:
+            if full_name in old_categories:
                 for cat in old_categories:
                     if full_name not in groups[cat]:
                         groups[cat].append(full_name)
                 kept_repos_count += 1
             else:
-                # 分类不一致，可能是手动调整过，保留旧分类
-                for cat in old_categories:
-                    if cat in groups:  # 旧分类可能已被移除
-                        if full_name not in groups[cat]:
-                            groups[cat].append(full_name)
+                if auto_category:
+                    if full_name not in groups[auto_category]:
+                        groups[auto_category].append(full_name)
+                else:
+                    if full_name not in groups["其他"]:
+                        groups["其他"].append(full_name)
                 kept_repos_count += 1
         else:
             # 新项目，自动分类
             new_repos_count += 1
-            auto_categories = auto_categorize(name_lower)
+            auto_category = auto_categorize(name_lower)
 
-            if auto_categories:
-                for cat in auto_categories:
-                    if full_name not in groups[cat]:
-                        groups[cat].append(full_name)
+            if auto_category:
+                if full_name not in groups[auto_category]:
+                    groups[auto_category].append(full_name)
             else:
                 # 无法自动分类，归入其他
                 if full_name not in groups["其他"]:
