@@ -61,17 +61,23 @@ def generate_readme(groups, output_file="README.md"):
     :param output_file: 输出文件名
     """
     MAX_DESC_LENGTH = 200
-    
+
     def truncate(text, max_len=MAX_DESC_LENGTH):
         """截断过长的文本，添加省略号"""
         if len(text) > max_len:
             return text[:max_len] + "..."
         return text
-    
+
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("# 我的 Star 项目导航\n\n")
-        
-        # 按分类顺序输出
+        f.write("> A curated list of my GitHub stars!\n\n")
+        f.write("## 使用说明\n\n")
+        f.write("| 问题 | 说明 |\n")
+        f.write("|------|------|\n")
+        f.write("| **自动执行时间** | 每周一 01:00 UTC 同步 stars；每周三、日 01:00 UTC 生成分类 |\n")
+        f.write("| **手动执行** | 进入 Actions → 选择 workflow → 点击 \"Run workflow\" |\n")
+        f.write("| **自定义归类** | 编辑 `star-category.yaml`，将项目移到目标类别即可 |\n\n")
+
         for group, repos in groups.items():
             f.write(f"## {group} ({len(repos)})\n")
             if repos:
@@ -79,7 +85,7 @@ def generate_readme(groups, output_file="README.md"):
                     desc = truncate(repo['description']) if repo['description'] else ""
                     f.write(f"- [{repo['name']}]({repo['html_url']}) - {desc}\n")
                 f.write("\n")
-        
+
         f.write("> 本页由自动脚本生成，分组可手动编辑 star-category.yaml\n")
 
 def main():
