@@ -1,0 +1,37 @@
+name: Update Stars List
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨 12:00 自动运行一次
+  workflow_dispatch:   # 允许手动点击按钮运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install starred
+        run: pip install starred
+
+      - name: Generate README
+        run: |
+          # 使用 starred 命令生成 Markdown 文件
+          # --username: 你的 GitHub 用户名
+          # --repository: 当前这个仓库名
+          # --sort: 按星标时间排序
+          starred --username ${{ github.repository_owner }} --repository ${{ github.event.repository.name }} --sort --token ${{ secrets.MY_GITHUB_TOKEN }} > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          # 只有在文件有变动时才提交
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stars list" && git push)
