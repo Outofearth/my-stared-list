@@ -3,10 +3,10 @@ import requests
 import yaml
 
 # 获取你的 GitHub 用户名和 Token
-USER = os.environ.get("GITHUB_REPOSITORY_OWNER", "YOUR_GITHUB_USERNAME")  # workflow自动带有
-TOKEN = os.environ.get("GH_TOKEN")  # 需在 Actions secrets 设置写入
+USER = os.environ.get("GITHUB_REPOSITORY_OWNER", "YOUR_GITHUB_USERNAME")
+TOKEN = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
 
-assert TOKEN, "请在你的 Actions secrets 里配置 GH_TOKEN，用于 API 拉取 star 仓库"
+assert TOKEN, "GitHub Actions 内置 GITHUB_TOKEN 不可用，请检查 workflow 权限配置"
 
 def fetch_all_stars(user, token):
     stars = []
