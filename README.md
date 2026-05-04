@@ -1,5 +1,15 @@
 # 我的 Star 项目导航
 
+> A curated list of my GitHub stars!
+
+## 使用说明
+
+| 问题 | 说明 |
+|------|------|
+| **自动执行时间** | 每周一 01:00 UTC 同步 stars；每周三、日 01:00 UTC 生成分类 |
+| **手动执行** | 进入 Actions → 选择 workflow → 点击 "Run workflow" |
+| **自定义归类** | 编辑 `star-category.yaml`，将项目移到目标类别即可 |
+
 ## AI/ML (75)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola...
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
