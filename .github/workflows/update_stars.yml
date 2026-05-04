@@ -29,6 +29,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          rm -f README.md
           python update_readme.py
 
       - name: Commit and push changes
