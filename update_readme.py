@@ -60,6 +60,14 @@ def generate_readme(groups, output_file="README.md"):
     :param groups: 分组字典
     :param output_file: 输出文件名
     """
+    MAX_DESC_LENGTH = 200
+    
+    def truncate(text, max_len=MAX_DESC_LENGTH):
+        """截断过长的文本，添加省略号"""
+        if len(text) > max_len:
+            return text[:max_len] + "..."
+        return text
+    
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("# 我的 Star 项目导航\n\n")
         
@@ -68,11 +76,9 @@ def generate_readme(groups, output_file="README.md"):
             f.write(f"## {group}\n")
             if repos:
                 for repo in repos:
-                    desc = repo['description'] if repo['description'] else ""
+                    desc = truncate(repo['description']) if repo['description'] else ""
                     f.write(f"- [{repo['name']}]({repo['html_url']}) - {desc}\n")
-            else:
-                f.write("- 暂无项目\n")
-            f.write("\n")
+                f.write("\n")
         
         f.write("> 本页由自动脚本生成，分组可手动编辑 star-category.yaml\n")
 
