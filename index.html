@@ -18,5 +18,33 @@
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script>
+    // 页面加载完成后为每个分类添加项目数量
+    window.$docsify.plugins = [
+      function(hook, vm) {
+        hook.afterEach(function(html) {
+          // 查找所有 h2 标题
+          var headings = document.querySelectorAll('h2');
+          headings.forEach(function(heading) {
+            // 如果标题还没有数量标记
+            if (!heading.textContent.includes('(')) {
+              // 获取该标题下的列表项数量
+              var nextElement = heading.nextElementSibling;
+              var count = 0;
+              while (nextElement && nextElement.tagName !== 'H2') {
+                if (nextElement.tagName === 'UL') {
+                  var items = nextElement.querySelectorAll('li');
+                  count += items.length;
+                }
+                nextElement = nextElement.nextElementSibling;
+              }
+              // 添加数量
+              heading.textContent += ' (' + count + ')';
+            }
+          });
+        });
+      }
+    ];
+  </script>
 </body>
 </html>
