@@ -17,12 +17,67 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install starred
-        run: pip install starred
-
-      - name: Generate README
+      - name: Install dependencies
         run: |
-          starred --username ${{ github.repository_owner }} --repository "${GITHUB_REPOSITORY#*/}" --sort --token ${{ secrets.MY_GITHUB_TOKEN }} > README.md
+          pip install PyYAML requests
+
+      - name: Download star list from GitHub API
+        env:
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: |
+          python3 <<EOF
+import requests, yaml, os
+
+username = 'Outofearth'
+token = os.environ['GH_TOKEN']
+headers = {'Authorization': f'token {token}'}
+per_page = 100
+stars = []
+page = 1
+
+while True:
+    url = f'https://api.github.com/users/{username}/starred?per_page={per_page}&page={page}'
+    resp = requests.get(url, headers=headers)
+    data = resp.json()
+    if not data: break
+    for repo in data:
+        stars.append({
+            'full_name': repo['full_name'],
+            'name': repo['name'],
+            'html_url': repo['html_url'],
+            'description': repo['description'] or ''
+        })
+    page += 1
+
+# 读取自定义分组
+with open('star-category.yaml', encoding='utf-8') as f:
+    groups = yaml.safe_load(f)
+
+grouped = {k: [] for k in groups}
+others = []
+
+for star in stars:
+    found = False
+    for group, repos in groups.items():
+        if star['full_name'] in repos:
+            grouped[group].append(star)
+            found = True
+            break
+    if not found:
+        others.append(star)
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write('# 我的 GitHub Star 导航\n\n')
+    for group, repos in grouped.items():
+        f.write(f'## {group}\n')
+        for repo in repos:
+            f.write(f"- [{repo['name']}]({repo['html_url']}) - {repo['description']}\n")
+        f.write('\n')
+    if others:
+        f.write('## 未分类\n')
+        for repo in others:
+            f.write(f"- [{repo['name']}]({repo['html_url']}) - {repo['description']}\n")
+EOF
 
       - name: Commit and push changes
         env:
