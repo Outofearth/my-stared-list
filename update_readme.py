@@ -6,7 +6,7 @@ import yaml
 USER = os.environ.get("GITHUB_REPOSITORY_OWNER", "YOUR_GITHUB_USERNAME")
 TOKEN = os.environ.get("GH_TOKEN")
 
-assert TOKEN, "GitHub Actions 内置 GH_TOKEN 不可用，请检查 workflow 权限配置"
+assert TOKEN, "请在 Actions secrets 中配置 GH_TOKEN"
 
 def fetch_all_stars(user, token):
     stars = []
