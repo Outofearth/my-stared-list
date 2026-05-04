@@ -2,8 +2,11 @@ name: Update Stars List
 
 on:
   schedule:
-    - cron: '0 0 * * *'         # 每天自动运行
-  workflow_dispatch:            # 允许手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,8 +24,6 @@ jobs:
         run: pip install requests PyYAML
 
       - name: Update README.md with star categories
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # 保证此名称与你 secrets 设置一致
         run: |
           python update_readme.py
 
