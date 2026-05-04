@@ -73,7 +73,7 @@ def generate_readme(groups, output_file="README.md"):
         
         # 按分类顺序输出
         for group, repos in groups.items():
-            f.write(f"## {group}\n")
+            f.write(f"## {group} ({len(repos)})\n")
             if repos:
                 for repo in repos:
                     desc = truncate(repo['description']) if repo['description'] else ""
