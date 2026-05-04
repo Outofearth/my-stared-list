@@ -1,0 +1,86 @@
+name: Generate Category Template
+
+on:
+  schedule:
+    - cron: '0 1 * * 0,3'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - run: pip install requests PyYAML
+
+      - name: Fetch Stars
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          python - << 'EOF'
+          import requests
+          import os
+
+          user = os.environ.get("GITHUB_REPOSITORY_OWNER")
+          token = os.environ.get("GH_TOKEN")
+
+          stars = []
+          page = 1
+          per_page = 100
+          headers = {'Authorization': f'token {token}'}
+
+          while True:
+              resp = requests.get(
+                  f"https://api.github.com/users/{user}/starred?per_page={per_page}&page={page}",
+                  headers=headers,
+              )
+              if resp.status_code != 200 or not resp.json():
+                  break
+              data = resp.json()
+              for repo in data:
+                  print(f"- [{repo['name']}](https://github.com/{repo['full_name']})")
+              stars.extend(data)
+              page += 1
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write("# 我的 Star 项目导航\n\n")
+              for repo in stars:
+                  desc = (repo.get("description") or "").replace("\n", " ").strip()
+                  f.write(f"- [{repo['name']}](https://github.com/{repo['full_name']}) - {desc}\n")
+
+          print(f"\n共获取 {len(stars)} 个仓库")
+          EOF
+
+      - name: Generate Category Template
+        run: python generate_category_template.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add star-category-by-keywords.yaml
+          git diff --cached --quiet || git commit -m "Update category template [auto]"
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            git push
+          fi
+
+      - name: Show Result
+        run: |
+          if [ "${{ steps.commit.outputs.changed }}" == "true" ]; then
+            echo "star-category-by-keywords.yaml 已更新并推送"
+          else
+            echo "无需更新，分类无变化"
+          fi
