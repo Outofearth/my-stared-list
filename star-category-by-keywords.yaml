@@ -1,4 +1,6 @@
 AI/ML:
+- mrslimslim/gpt-image-canvas
+- freestylefly/awesome-gpt-image-2
 - abus-aikorea/voice-pro
 - HunxByts/GhostTrack
 - aivrar/portable-hermes-agent
@@ -274,6 +276,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- Wei-Shaw/sub2api
 - algotao/pidoc-site-zhcn
 - ruvnet/RuView
 - StevenMHernandez/ESP32-CSI-Tool
@@ -338,3 +341,5 @@ Download:
 MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
+其他:
+- D4Vinci/Scrapling
