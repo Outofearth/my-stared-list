@@ -33,7 +33,7 @@
 - [free_premium_ai](https://github.com/swufe-xiongmin/free_premium_ai) - 收录可以免费使用能力较强的AI的合集，尽量筛选较为稳定的平台，但希望合理预期，免费，稳定，高性能是不可能三角A list of highly capable AI models you can use for free. We’ve tried to select the most stable platforms, but keep in mind the "impossible triangl...
 - [AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [AIComicBuilder](https://github.com/twwch/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
-- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [aicheck](https://github.com/MatrixA/aicheck) - Detect AI-generated images, video, and audio by analyzing metadata and invisible watermarks. Offline. No API keys.
 - [CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文...
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
@@ -370,5 +370,10 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (0)
+## 未分组 (4)
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+- [sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
+
 > 本页由自动脚本生成，分组可手动编辑 star-category.yaml
