@@ -16,7 +16,7 @@ AI/ML:
 - jnMetaCode/agency-agents-zh
 - swufe-xiongmin/free_premium_ai
 - yikart/AiToEarn
-- twwch/AIComicBuilder
+- LingyiChen-AI/AIComicBuilder
 - iOfficeAI/AionUi
 - MatrixA/aicheck
 - zhayujie/CowAgent
@@ -62,6 +62,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- earthtojake/text-to-cad
 - microsoft/TRELLIS.2
 - mrdoob/three.js
 - playcanvas/supersplat
@@ -158,6 +159,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- bytedance/UI-TARS-desktop
 - Z4nzu/hackingtool
 - AIDC-AI/Pixelle-Video
 - jackwener/OpenCLI
@@ -199,6 +201,7 @@ TopGoodTool:
 - Klocman/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
+- HKUDS/Vibe-Trading
 - sansan0/TrendRadar
 - Fincept-Corporation/FinceptTerminal
 - virattt/dexter
@@ -276,6 +279,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- QuantumNous/new-api
 - Wei-Shaw/sub2api
 - algotao/pidoc-site-zhcn
 - ruvnet/RuView
@@ -292,6 +296,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- mvanhorn/last30days-skill
 - LZRight123/yuan
 - 0voice/algorithm-structure
 - iptv-org/iptv
@@ -315,6 +320,8 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- liyupi/ai-guide
+- cheahjs/free-llm-api-resources
 - dmtrKovalenko/fff
 - 1c7/chinese-independent-developer
 - Yuexuan9/Tinker
@@ -342,4 +349,11 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- lightningpixel/modly
+- bannedbook/fanqiang
+- getcompanion-ai/feynman
+- nanobrowser/nanobrowser
+- OpenGeometry-io/OpenGeometry
+- yaojingang/yao-open-prompts
+- hanmaoye/IDM-Activation-Script
 - D4Vinci/Scrapling
