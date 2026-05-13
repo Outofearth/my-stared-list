@@ -159,6 +159,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- jackwener/wx-cli
 - bytedance/UI-TARS-desktop
 - Z4nzu/hackingtool
 - AIDC-AI/Pixelle-Video
@@ -297,7 +298,7 @@ ESP32/Hardware:
 - Duet3D/RepRapFirmware
 Skill Box:
 - mvanhorn/last30days-skill
-- LZRight123/yuan
+- shizhilya/yuan
 - 0voice/algorithm-structure
 - iptv-org/iptv
 - Hyumaio/file-checksum
@@ -349,9 +350,12 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- crmeb/CRMEB
+- anonfaded/FadCam
+- yt-dlp/yt-dlp
 - lightningpixel/modly
 - bannedbook/fanqiang
-- getcompanion-ai/feynman
+- companion-inc/feynman
 - nanobrowser/nanobrowser
 - OpenGeometry-io/OpenGeometry
 - yaojingang/yao-open-prompts
