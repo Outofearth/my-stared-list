@@ -1,4 +1,5 @@
 AI/ML:
+- jau123/MeiGen-AI-Design-MCP
 - mrslimslim/gpt-image-canvas
 - freestylefly/awesome-gpt-image-2
 - abus-aikorea/voice-pro
@@ -62,6 +63,8 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- MrXujiang/HiCAD
+- huangserva/3DCellForge
 - earthtojake/text-to-cad
 - microsoft/TRELLIS.2
 - mrdoob/three.js
@@ -159,6 +162,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- avacocloud/XHTTP-Installer
 - jackwener/wx-cli
 - bytedance/UI-TARS-desktop
 - Z4nzu/hackingtool
@@ -297,6 +301,8 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- handsomestWei/patent-disclosure-skill
+- Fokkyp/SoftwareCopyright-Skill
 - mvanhorn/last30days-skill
 - shizhilya/yuan
 - 0voice/algorithm-structure
@@ -321,6 +327,7 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- Augani/openreel-video
 - liyupi/ai-guide
 - cheahjs/free-llm-api-resources
 - dmtrKovalenko/fff
@@ -333,6 +340,7 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- neilsonnn/image-blaster
 - wendy7756/AI-Video-Transcriber
 - Zeyi-Lin/HivisionIDPhotos
 - mifi/lossless-cut
@@ -350,6 +358,17 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- mattzh72/articraft
+- c0re100/qBittorrent-Enhanced-Edition
+- diegosouzapw/OmniRoute
+- tinyhumansai/openhuman
+- zarazhangrui/follow-builders
+- earthtojake/step.parts
+- arcsin1/oh-my-ppt
+- AIScientists-Dev/WorldSeed
+- supertone-inc/supertonic
+- HeyPuter/puter
+- fspecii/ace-step-ui
 - crmeb/CRMEB
 - anonfaded/FadCam
 - yt-dlp/yt-dlp
