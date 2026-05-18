@@ -147,7 +147,7 @@
 - [Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
 - [HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
 
-## AI Projects (30)
+## AI Projects (29)
 - [awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
@@ -166,7 +166,6 @@
 - [lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [roop](https://github.com/s0md3v/roop) - 
 - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
 - [Word-As-Image](https://github.com/Shiriluz/Word-As-Image) - 
 - [metahuman_overview](https://github.com/YUANZHUO-BNU/metahuman_overview) - 数字人资料整理
@@ -368,7 +367,9 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (41)
+## 未分组 (43)
+- [articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
+- [XHTTP-Installer](https://github.com/avacocloud/XHTTP-Installer) - VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay
 - [image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman stacked compression up to ~95% eligible context savings, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
@@ -379,7 +380,7 @@
 - [openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [step.parts](https://github.com/earthtojake/step.parts) - 12,000+ open source STEP parts for your next CAD project
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio.
-- [oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - describe what you need – presentation, lesson, or story – and let the AI build clean, beautiful HTML slides for you. Works offline, works for you.
+- [oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
 - [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
 - [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [WorldSeed](https://github.com/AIScientists-Dev/WorldSeed) - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.
