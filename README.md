@@ -163,7 +163,7 @@
 - [firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of...
 - [page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
@@ -367,7 +367,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (43)
+## 未分组 (44)
+- [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 - [articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
 - [XHTTP-Installer](https://github.com/avacocloud/XHTTP-Installer) - VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay
 - [image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
