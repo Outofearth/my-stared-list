@@ -147,7 +147,6 @@ AI Projects:
 - lobehub/lobehub
 - Plachtaa/VALL-E-X
 - Anjok07/ultimatevocalremovergui
-- s0md3v/roop
 - Baiyuetribe/paper2gui
 - Plachtaa/VITS-fast-fine-tuning
 - Shiriluz/Word-As-Image
@@ -247,6 +246,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- joeseesun/qiaomu-anything-to-notebooklm
 - XiaomingX/ai-money-maker-handbook
 - alchaincyf/huashu-design
 - HKUDS/DeepTutor
@@ -327,6 +327,7 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- CNCKitchen/GCodeBending
 - Augani/openreel-video
 - liyupi/ai-guide
 - cheahjs/free-llm-api-resources
@@ -358,6 +359,9 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Michael-A-Kuykendall/shimmy
+- 40rbidd3n/Hydro0x01
+- wechat-article/wechat-article-exporter
 - mattzh72/articraft
 - c0re100/qBittorrent-Enhanced-Edition
 - diegosouzapw/OmniRoute
