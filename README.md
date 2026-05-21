@@ -367,7 +367,12 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (48)
+## 未分组 (53)
+- [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+- [ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
+- [audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
+- [voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
+- [vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia) - 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
 - [GCodeBending](https://github.com/CNCKitchen/GCodeBending) - Phython Script to bend GCode
 - [shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [Hydro0x01](https://github.com/40rbidd3n/Hydro0x01) - Secure, production-grade IoT hydroponic automation system with ESP32, MQTT telemetry, and real-time dashboard
