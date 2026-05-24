@@ -1,4 +1,8 @@
 AI/ML:
+- K-Dense-AI/scientific-agent-skills
+- duhow/xiaoai-patch
+- wiltodelta/remove-ai-watermarks
+- jamiepine/voicebox
 - jau123/MeiGen-AI-Design-MCP
 - mrslimslim/gpt-image-canvas
 - freestylefly/awesome-gpt-image-2
@@ -63,6 +67,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- RotBotSlicer/Nonplanar_Slicing
 - MrXujiang/HiCAD
 - huangserva/3DCellForge
 - earthtojake/text-to-cad
@@ -161,6 +166,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- HKUDS/CLI-Anything
 - avacocloud/XHTTP-Installer
 - jackwener/wx-cli
 - bytedance/UI-TARS-desktop
@@ -230,6 +236,8 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- InterceptSuite/ProxyBridge
+- igareck/vpn-configs-for-russia
 - proxifly/free-proxy-list
 - wuqb2i4f/xray-config-toolkit
 - eooce/Cloudflare-proxy
@@ -246,6 +254,8 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- teng-lin/notebooklm-py
+- Renhuai123/ziwei-doushu
 - joeseesun/qiaomu-anything-to-notebooklm
 - XiaomingX/ai-money-maker-handbook
 - alchaincyf/huashu-design
@@ -301,6 +311,8 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- yaojingang/yao-geo-skills
+- alchaincyf/nuwa-skill
 - handsomestWei/patent-disclosure-skill
 - Fokkyp/SoftwareCopyright-Skill
 - mvanhorn/last30days-skill
@@ -322,11 +334,13 @@ Skill Box:
 - jellyfin/jellyfin
 - IceWhaleTech/CasaOS
 Web:
+- Stremio/stremio-web
 - JCodesMore/ai-website-cloner-template
 - public-apis/public-apis
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- Hmbown/CodeWhale
 - CNCKitchen/GCodeBending
 - Augani/openreel-video
 - liyupi/ai-guide
@@ -359,6 +373,9 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- dsd2077/CyberVerse
+- frappe/erpnext
+- santinic/audiblez
 - Michael-A-Kuykendall/shimmy
 - 40rbidd3n/Hydro0x01
 - wechat-article/wechat-article-exporter
