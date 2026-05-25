@@ -21,7 +21,7 @@
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear...
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 - [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
-- [FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
+- [FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 - [huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -34,7 +34,7 @@
 - [AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [aicheck](https://github.com/MatrixA/aicheck) - Detect AI-generated images, video, and audio by analyzing metadata and invisible watermarks. Offline. No API keys.
-- [CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文...
+- [CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install ...
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...
 - [pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
@@ -370,7 +370,7 @@
 ## 未分组 (65)
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl...
 - [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) - 面向 GEO 内容与工作流的 Skill 开源合集，持续更新中。
-- [CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
