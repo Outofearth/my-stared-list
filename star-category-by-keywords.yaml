@@ -1,455 +1,417 @@
-# 🌟 Outofearth 的 GitHub Star 项目分类
-# 最后更新：2026年6月4日
-# 总项目数：200+ 项
-
-# ============================================
-# 核心分类
-# ============================================
-
-# 🤖 AI Agent 和自动化框架 (Agent Framework & Automation)
-AI_Agent_Framework:
-  - NousResearch/hermes-agent  # ⭐177,655 - Agent框架之王
-  - langchain-ai/langchain  # ⭐138,359 - Agent工程平台
-  - bytedance/deer-flow  # ⭐70,323 - 长期推理Agent
-  - msitarzewski/agency-agents  # ⭐107,022 - 完整Agent生态
-  - zhayujie/CowAgent  # ⭐45,030 - 开源Agent助手
-  - lobehub/lobehub  # ⭐78,111 - Agent操作平台
-  - bytedance/UI-TARS-desktop  # ⭐35,949 - 多模态Agent栈
-  - openai/swarm  # Swarm 多Agent框架
-  - iOfficeAI/AionUi  # ⭐27,463 - 24/7 Cowork App
-  - HKUDS/CLI-Anything  # ⭐41,848 - CLI Agent赋能
-  - THU-MAIC/OpenMAIC  # ⭐18,250 - 多Agent教室
-  - FoundationAgents/OpenManus  # ⭐56,439 - Agent OS
-
-# 🧠 自托管 AI 工作空间 (Self-hosted AI Workspace)
-Self_Hosted_AI_Workspace:
-  - pewdiepie-archdaemon/odysseus  # ⭐33,685 - 完整工作空间（Chat/Agent/Mail/Calendar）
-  - tinyhumansai/openhuman  # ⭐30,460 - 个人AI超级智能
-  - HeyPuter/puter  # ⭐42,077 - 互联网计算机操作系统
-  - dsd2077/CyberVerse  # ⭐1,086 - 数字人AI代理平台
-  - agentscope-ai/QwenPaw  # ⭐17,179 - 个人AI助手
-  - rowboatlabs/rowboat  # ⭐14,871 - AI同事（带记忆）
-
-# 🎯 AI Skill 和工具库 (AI Skills & Tools)
-AI_Skills_And_Tools:
-  - K-Dense-AI/scientific-agent-skills  # ⭐27,012 - 科学Agent技能库（140+）
-  - ComposioHQ/awesome-codex-skills  # ⭐12,797 - Codex技能合集
-  - VoltAgent/awesome-openclaw-skills  # ⭐49,718 - OpenClaw技能库（5400+）
-  - mvanhorn/last30days-skill  # ⭐27,010 - 多源信息研究Skill
-  - earthtojake/text-to-cad  # ⭐5,518 - CAD/机器人设计Skill
-  - EKKOLearnAI/hermes-web-ui  # ⭐7,064 - Hermes Web UI
-  - cft0808/edict  # ⭐15,957 - 多Agent编排系统（三省六部制）
-  - FreedomIntelligence/OpenClaw-Medical-Skills  # ⭐2,590 - 医学Skill库
-  - modelcontextprotocol/servers  # ⭐86,661 - MCP服务器生态
-  - cline/mcp-marketplace  # ⭐777 - MCP应用市场
-  - yaojingang/yao-geo-skills  # GEO工作流Skill
-  - alchaincyf/nuwa-skill  # 思维蒸馏Skill
-  - handsomestWei/patent-disclosure-skill  # 专利申请Skill
-  - Fokkyp/SoftwareCopyright-Skill  # 软著申请Skill
-  - alchaincyf/darwin-skill  # ⭐3,292 - Skill自进化系统
-  - shizhilya/yuan  # 命理预测Skill
-
-# 🎬 AI 视频生成和编辑 (AI Video Generation & Editing)
-AI_Video_Generation:
-  - harry0703/MoneyPrinterTurbo  # ⭐78,171 - 一键生成短视频
-  - AIDC-AI/Pixelle-Video  # ⭐21,106 - 全自动短视频引擎
-  - OpenDemon/Pilipili-AutoVideo  # ⭐175 - 全自动视频代理
-  - MeiGen-AI/InfiniteTalk  # ⭐6,774 - 图像转视频生成
-  - zhouxiaoka/autoclip  # ⭐5,547 - AI高光提取
-  - deepbeepmeep/Wan2GP  # ⭐5,952 - 快速视频生成
-  - LingyiChen-AI/AIComicBuilder  # ⭐1,513 - 动画漫画生成
-  - Augani/openreel-video  # ⭐3,331 - 浏览器视频编辑
-  - linyqh/NarratoAI  # ⭐9,649 - 视频解说和剪辑
-  - wendy7756/AI-Video-Transcriber  # ⭐2,705 - 视频转录和总结
-  - Rudrabha/Wav2Lip  # 音视频同步生成
-  - OpenTalker/video-retalking  # 视频对话生成
-
-# 🎙️ AI 语音和音频 (AI Voice & Audio)
-AI_Voice_Audio:
-  - jamiepine/voicebox  # ⭐29,178 - 开源AI语音工作室
-  - microsoft/VibeVoice  # ⭐47,665 - 开源语音AI前沿
-  - RVC-Boss/GPT-SoVITS  # ⭐58,309 - 少量数据声音克隆
-  - modelscope/FunASR  # ⭐16,941 - 工业级语音识别
-  - FunAudioLLM/CosyVoice  # ⭐21,408 - 多语言语音生成
-  - abus-aikorea/voice-pro  # ⭐10,479 - 创意者TTS工作室
-  - Plachtaa/VALL-E-X  # ⭐7,940 - 零样本TTS模型
-  - netease-youdao/EmotiVoice  # 情感语音合成
-  - Plachtaa/VITS-fast-fine-tuning  # VITS快速微调
-  - w-okada/voice-changer  # 实时变声工具
-  - Anjok07/ultimatevocalremovergui  # ⭐24,913 - 人声分离GUI
-  - suno-ai/bark  # 音频生成模型
-  - effusiveperiscope/so-vits-svc  # 歌声转换
-
-# 🖼️ AI 图像和设计 (AI Image & Design)
-AI_Image_Design:
-  - AUTOMATIC1111/stable-diffusion-webui  # 开源绘图WebUI
-  - Comfy-Org/ComfyUI  # ⭐115,452 - 模块化扩散模型UI
-  - mrslimslim/gpt-image-canvas  # 本地AI画布
-  - freestylefly/awesome-gpt-image-2  # ⭐6,917 - GPT-Image-2提示库
-  - YouMind-OpenLab/awesome-gpt-image-2  # ⭐7,019 - 2000+提示库
-  - EvoLinkAI/awesome-gpt-image-2-API-and-Prompts  # ⭐15,899 - API和提示
-  - jau123/MeiGen-AI-Design-MCP  # ⭐1,348 - AI设计MCP
-  - alchaincyf/huashu-design  # ⭐16,066 - HTML原生设计Skill
-  - Russell-cell/PPT-Design-Prompt  # PPT设计提示
-  - oh-my-ppt  # ⭐1,438 - AI幻灯片生成
-  - neilsonnn/image-blaster  # ⭐4,395 - 图像到世界Skill
-  - dreamgaussian/dreamgaussian  # ⭐4,327 - 3D高斯生成
-  - AiuniAI/Unique3D  # ⭐3,561 - 高质量3D网格生成
-  - VAST-AI-Research/TripoSR  # ⭐6,566 - 快速3D重建
-  - sczhou/CodeFormer  # 人脸复原
-  - Shiriluz/Word-As-Image  # 文字艺术生成
-
-# 🌐 信息聚合和分析 (Information Aggregation & Analysis)
-Information_Aggregation:
-  - sansan0/TrendRadar  # ⭐58,740 - AI舆情监控系统
-  - koala73/worldmonitor  # ⭐55,523 - 实时全球情报仪表板
-  - 666ghj/BettaFish  # ⭐41,167 - 多Agent舆情分析
-  - 666ghj/MiroFish  # ⭐63,715 - 群体智能预测引擎
-  - Thysrael/Horizon  # ⭐5,400 - AI新闻雷达
-  - new-economy/MindSpider  # AI爬虫舆情分析
-  - qeeqbox/social-analyzer  # ⭐22,930 - 1000+社交媒体分析
-  - tmwgsicp/wechat-download-api  # 微信公众号文章API
-  - zarazhangrui/follow-builders  # ⭐4,952 - AI构建者消化系统
-
-# 💰 金融和交易 (Finance & Trading)
-Finance_Trading:
-  - HKUDS/Vibe-Trading  # ⭐9,574 - 个人交易代理
-  - Fincept-Corporation/FinceptTerminal  # ⭐25,120 - 金融分析应用
-  - virattt/dexter  # ⭐26,804 - 深度财务研究Agent
-  - ZhuLinsen/daily_stock_analysis  # ⭐39,951 - LLM驱动股票分析
-  - hsliuping/TradingAgents-CN  # ⭐27,758 - 多智能体交易框架
-  - charliedream1/ai_quant_trade  # ⭐5,704 - 量化交易平台
-  - Rockyzsu/stock  # ⭐7,689 - 30天量化交易教程
-  - joshyattridge/smart-money-concepts  # ⭐1,702 - 智能资金交易
-  - waditu/czsc  # ⭐5,204 - 缠论技术分析
-  - yijixiuxin/chanlun-pro  # 量化缠论工具
-  - chan.py  # ⭐1,827 - 缠论Python框架
-
-# 🤖 机器人和硬件 (Robots & Hardware)
-Robots_Hardware:
-  - huggingface/lerobot  # ⭐24,609 - 机器学习机器人框架
-  - Vector-Wangel/XLeRobot  # ⭐5,186 - 双臂移动机器人
-  - OpenDriveLab/AgiBot-World  # ⭐2,999 - 大规模操纵平台
-  - HybridRobotics/Berkeley-Humanoid-Lite  # ⭐1,354 - 人形机器人
-  - enactic/openarm  # ⭐2,535 - 开源人形臂
-  - Seeed-Projects/reBot-DevArm  # ⭐3,577 - 机械臂开发
-  - apirrone/Open_Duck_Mini  # ⭐3,038 - 迷你机器人
-  - pollen-robotics/AmazingHand  # ⭐2,187 - 机械手控制
-  - chvmp/champ  # ⭐2,248 - MIT猎豹I实现
-  - mit-biomimetics/Cheetah-Software  # ⭐3,225 - 猎豹软件
-  - freemocap/freemocap  # ⭐8,954 - 免费动捕系统
-  - zsibot/matrix  # ⭐289 - MuJoCo/UE5仿真平台
-  - mjyc/awesome-robotics-projects  # ⭐1,629 - 机器人项目列表
-
-# 🖨️ 3D打印和制造 (3D Printing & Manufacturing)
-3D_Printing_Manufacturing:
-  - RotBotSlicer/Nonplanar_Slicing  # 非平面切片
-  - jyjblrd/S4_Slicer  # ⭐932 - 通用非平面切片
-  - TengerTechnologies/Smoothificator  # ⭐281 - 模糊皮肤效果
-  - teachingtechYT/PrusaSlicer  # 非平面打印
-  - cooljjj33/PolyDye  # ⭐435 - 全色打印
-  - zhangty019/S3_DeformFDM  # 形变FDM
-  - Roetz4point0/Roetz-End  # ⭐73 - 开源共挤热端
-  - gnea/grbl  # ⭐3,700+ - CNC控制软件
-
-# 📐 CAD和设计 (CAD & Design)
-CAD_Design:
-  - MrXujiang/HiCAD  # ⭐122 - AI驱动CAD平台
-  - xiangechen/chili3d  # ⭐4,567 - 浏览器3D CAD
-  - pascalorg/editor  # ⭐16,378 - 3D建筑项目编辑
-  - kovacsv/Online3DViewer  # ⭐3,531 - 在线3D查看器
-  - earthtojake/step.parts  # ⭐241 - 12000+开源STEP零件
-  - huangserva/3DCellForge  # ⭐2,412 - 3D模型生成工作室
-
-# 🧬 科学和研究 (Science & Research)
-Science_Research:
-  - microsoft/TRELLIS.2  # ⭐8,119 - 3D生成模型
-  - jiran214/langup-ai  # AI编程学习
-  - AARG-FAN/DesktopAI  # 桌面AI应用
-  - FreedomIntelligence/HuatuoGPT-II  # 医学GPT
-  - earthspecies/library  # ⭐83 - 动物声音库
-
-# 🧬 OCR 和文档处理 (OCR & Document Processing)
-OCR_Document_Processing:
-  - opendatalab/MinerU  # ⭐66,175 - PDF/Office转LLM格式
-  - zai-org/GLM-OCR  # ⭐6,874 - GLM OCR系统
-  - datalab-to/chandra  # ⭐11,077 - 复杂表格和表单OCR
-  - hiroi-sora/Umi-OCR  # 开源OCR工具
-  - opendataloader-project/opendataloader-pdf  # ⭐22,852 - PDF解析
-
-# 🌍 Web爬虫和数据 (Web Crawling & Data)
-Web_Crawling_Data:
-  - unclecode/crawl4ai  # ⭐67,647 - LLM友好网页爬虫
-  - D4Vinci/Scrapling  # ⭐59,279 - 自适应Web爬虫框架
-  - firecrawl/firecrawl  # ⭐127,828 - 网页搜索爬虫API
-  - Shubhamsaboo/awesome-llm-apps  # ⭐112,669 - 100+LLM应用
-  - awesomedata/awesome-public-datasets  # ⭐75,765 - 高质量公开数据集
-
-# 📚 学习和教育 (Learning & Education)
-Learning_Education:
-  - krahets/hello-algo  # ⭐126,524 - 算法可视化教程
-  - Developer-Y/cs-video-courses  # ⭐81,696 - 计算机科学视频课程
-  - exacity/deeplearningbook-chinese  # ⭐37,283 - 深度学习书中文版
-  - HKUDS/DeepTutor  # ⭐24,503 - Agent原生个性化教程
-  - datawhalechina/easy-vibe  # ⭐15,705 - Vibe编码教程
-  - liyupi/ai-guide  # ⭐15,061 - AI资源大全教程
-  - teng-lin/notebooklm-py  # ⭐15,746 - NotebookLM Python API
-  - joeseesun/qiaomu-anything-to-notebooklm  # NotebookLM处理器
-  - Anduin2017/HowToCook  # ⭐100,463 - 程序员做饭指南
-  - ruanyf/weekly  # ⭐93,014 - 科技爱好者周刊
-
-# 💻 开发工具和IDE (Dev Tools & IDE)
-Dev_Tools_IDE:
-  - Hmbown/CodeWhale  # ⭐36,729 - DeepSeek编码代理
-  - Alishahryar1/free-claude-code  # ⭐31,883 - 免费Claude Code
-  - pinokiocomputer/pinokio  # ⭐7,522 - AI浏览器
-  - fathyb/carbonyl  # ⭐19,153 - 终端Chromium
-  - dmtrKovalenko/fff  # ⭐7,455 - 快速文件搜索
-  - nashsu/AutoCLI  # ⭐2,743 - 命令行自动化工具
-  - ailyProject/aily-blockly  # ⭐2,146 - 硬件开发IDE
-  - n4ze3m/page-assist  # ⭐7,966 - 浏览器AI助手
-  - jackwener/OpenCLI  # ⭐23,352 - 网站转CLI工具
-  - browser-use/web-ui  # ⭐16,020 - 浏览器AI代理UI
-  - yuaotian/go-cursor-help  # ⭐26,344 - Cursor试用助手
-
-# 🎵 多媒体处理 (Multimedia Processing)
-Multimedia_Processing:
-  - mifi/lossless-cut  # 无损视频编辑
-  - RVC-Project/Retrieval-based-Voice-Conversion-WebUI  # 声音转换
-  - mrdoob/three.js  # ⭐112,805 - JavaScript 3D库
-  - playcanvas/supersplat  # ⭐8,950 - 3D高斯编辑
-  - putyy/res-downloader  # ⭐17,950 - 多平台资源下载
-
-# 📥 下载和媒体 (Download & Media)
-Download_Media:
-  - yt-dlp/yt-dlp  # ⭐167,536 - 功能完整下载器
-  - aandrew-me/ytDownloader  # ⭐9,662 - 多站点下载
-  - GopeedLab/gopeed  # ⭐24,738 - 快速下载管理器
-  - immich-app/immich  # ⭐102,533 - 自托管照片管理
-  - calibre-web  # ⭐17,255 - 电子书管理
-
-# 🌐 网络工具 (Network Tools)
-Network_Tools:
-  - InterceptSuite/ProxyBridge  # ⭐4,842 - 代理桥接工具
-  - igareck/vpn-configs-for-russia  # ⭐6,190 - VPN配置
-  - proxifly/free-proxy-list  # ⭐5,496 - 免费代理列表
-  - wuqb2i4f/xray-config-toolkit  # XRay配置工具
-  - eooce/Cloudflare-proxy  # ⭐2,441 - Cloudflare代理
-  - yonggekkk/Cloudflare-vless-trojan  # ⭐15,056 - CF代理脚本
-  - DigitalPlatDev/FreeDomain  # ⭐173,766 - 免费域名服务
-  - openwrt/openwrt  # ⭐27,084 - OpenWrt固件
-  - zhuima/awesome-cloudflare  # ⭐13,991 - Cloudflare资源
-
-# 🏠 智能家居 (Smart Home)
-Smart_Home:
-  - home-assistant/home-assistant.io  # ⭐9,343 - Home Assistant文档
-  - IceWhaleTech/CasaOS  # 家庭服务器系统
-  - meshtastic/web-flasher  # ⭐323 - Meshtastic固件烧写
-
-# 💾 系统和工具 (System & Tools)
-System_Tools:
-  - microsoft/PowerToys  # ⭐133,717 - Windows效率工具
-  - ChrisTitusTech/winutil  # ⭐55,436 - Windows优化工具
-  - BeyondDimension/SteamTools  # ⭐25,661 - Steam工具箱
-  - DavidXanatos/TaskExplorer  # ⭐3,608 - 任务管理器
-  - AlexanderPro/SmartSystemMenu  # ⭐3,210 - 系统菜单扩展
-  - SuperManito/LinuxMirrors  # ⭐7,545 - Linux换源脚本
-  - WangGithubUser/FastGitHub  # ⭐760 - GitHub加速
-  - 521xueweihan/GitHub520  # ⭐28,811 - GitHub加速
-  - termux/termux-app  # Android终端应用
-  - dockur/windows  # ⭐51,573 - Docker中的Windows
-
-# 💼 生产力工具 (Productivity Tools)
-Productivity_Tools:
-  - wanglin2/mind-map  # ⭐12,292 - SimpleMindMap思维导图
-  - frappe/books  # ⭐4,667 - 开源免费记账软件
-  - linsa-io/linsa  # ⭐16,889 - 私有保存分享
-  - mayswind/ezbookkeeping  # ⭐5,001 - 个人财务应用
-  - teslamate-org/teslamate  # ⭐8,048 - 特斯拉数据记录
-  - RICHQAQ/PasteMD  # ⭐4,931 - Markdown粘贴工具
-  - fish2018/pansou  # ⭐13,350 - 网盘资源搜索
-  - siddharthvaddem/openscreen  # ⭐38,007 - 屏幕演示工具
-
-# 🎮 媒体和娱乐 (Media & Entertainment)
-Media_Entertainment:
-  - c0re100/qBittorrent-Enhanced-Edition  # ⭐25,894 - 增强qBittorrent
-  - Stremio/stremio-web  # ⭐11,962 - 流媒体客户端
-  - jellyfin/jellyfin  # 开源媒体系统
-  - CRMEB/CRMEB  # ⭐8,864 - 开源商城系统
-  - OpenCut-app/OpenCut  # ⭐52,556 - CapCut替代品
-
-# 🎓 专业技能和领域知识 (Professional Skills)
-Professional_Skills:
-  - jnMetaCode/agency-agents-zh  # ⭐13,680 - 211个AI专家角色
-  - easychen/howto-make-more-money  # ⭐18,565 - 程序员赚钱指南
-  - XiaomingX/ai-money-maker-handbook  # AI副业赚钱
-  - santifer/career-ops  # ⭐48,417 - AI求职系统
-  - zubair-trabzada/ai-legal-claude  # ⭐1,405 - AI法律助手
-  - alchaincyf/darwin-skill  # ⭐3,292 - Skill自进化系统
-  - xiaohuailabs/xiaohu-wechat-format  # ⭐507 - 微信排版Skill
-
-# 🔬 模型和框架 (Models & Frameworks)
-Models_Frameworks:
-  - QwenLM/Qwen3  # ⭐27,282 - 阿里通义千问3
-  - deepseek-ai/awesome-deepseek-integration  # ⭐37,716 - DeepSeek集成
-  - unslothai/unsloth  # ⭐65,615 - 快速微调框架
-  - gradio-app/gradio  # 机器学习模型UI框架
-
-# 📡 其他AI项目 (Other AI Projects)
-Other_AI_Projects:
-  - asgeirtj/system_prompts_leaks  # ⭐41,172 - 系统提示词泄露
-  - x1xhlol/system-prompts-and-models-of-ai-tools  # ⭐138,707 - AI工具系统提示词
-  - jujumilk3/leaked-system-prompts  # ⭐14,622 - 泄露系统提示词
-  - AntonOsika/gpt-engineer  # GPT工程师
-  - xtekky/gpt4free  # GPT4免费
-  - yihong0618/xiaogpt  # 小爱音箱增强
-  - diegosouzapw/OmniRoute  # ⭐5,665 - AI网关（160+提供商）
-  - tanweai/pua  # ⭐17,899 - PIP技能框架
-  - garrytan/gstack  # ⭐106,394 - Garry Tan的Claude Code设置
-  - pocketpal-ai  # ⭐7,143 - 手机上的语言模型
-  - nextai-translator/nextai-translator  # AI翻译
-  - echohive42/AI-reads-books-page-by-page  # ⭐2,143 - AI读书
-  - mattzh72/articraft  # ⭐1,204 - 3D资产生成代理
-
-# 📊 特殊领域 (Specialized Domains)
-Specialized_Domains:
-  - duixcom/Duix-Avatar  # ⭐13,457 - AI数字人工具包
-  - 40rbidd3n/Hydro0x01  # ⭐493 - IoT水培自动化系统
-  - wechat-article/wechat-article-exporter  # ⭐11,141 - 微信文章下载
-  - OpenGeometry-io/OpenGeometry  # ⭐397 - 网页CAD内核
-  - ArchiNode/DarkOS  # 暗黑系统工具
-  - frappe/erpnext  # ⭐35,222 - 开源ERP系统
-  - santinic/audiblez  # ⭐7,246 - 电子书转有声书
-  - Michael-A-Kuykendall/shimmy  # ⭐5,312 - Rust推理服务器
-  - lightningpixel/modly  # ⭐3,805 - 图像生成3D模型
-  - companion-inc/feynman  # ⭐7,689 - 学习平台
-  - nanobrowser/nanobrowser  # ⭐13,071 - Web自动化扩展
-  - JCodesMore/ai-website-cloner-template  # ⭐16,086 - AI网站克隆
-  - cheahjs/free-llm-api-resources  # ⭐22,719 - 免费LLM资源
-  - public-apis/public-apis  # ⭐438,910 - 免费API列表
-  - AIScientists-Dev/WorldSeed  # ⭐870 - 多Agent世界引擎
-  - supertone-inc/supertonic  # ⭐11,154 - 多语言TTS
-  - fspecii/ace-step-ui  # ⭐4,047 - Suno替代品
-  - OmniRoute  # ⭐5,665 - AI网关
-  - ringnet/ringnet  # 动物声音处理
-
-# 📝 提示词和资源 (Prompts & Resources)
-Prompts_Resources:
-  - LiLittleCat/awesome-free-chatgpt  # ⭐21,084 - 免费ChatGPT镜像
-  - xxxily/hello-ai  # ⭐1,353 - AI工具导览
-  - go2coding/go2coding.github.io  # ⭐347 - AI工具导航
-  - swufe-xiongmin/free_premium_ai  # ⭐424 - 免费高能力AI
-  - yaojingang/yao-open-prompts  # ⭐2,368 - 中文提示词库
-
-# 🔧 实用工具集 (Utility Toolkits)
-Utility_Toolkits:
-  - Z4nzu/hackingtool  # ⭐76,962 - 黑客工具集
-  - RfidResearchGroup/proxmark3  # ⭐5,702 - RFID读卡器
-  - avacocloud/XHTTP-Installer  # ⭐761 - VLESS/Trojan安装器
-  - jackwener/wx-cli  # ⭐3,203 - 微信本地CLI
-  - arduino/arduino-cli  # ⭐4,917 - Arduino命令行工具
-  - Yeachan-Heo/oh-my-codex  # ⭐30,247 - Codex增强框架
-  - op7418/logo-generator-skill  # ⭐1,107 - Logo生成Skill
-  - Baiyuetribe/paper2gui  # PDF GUI工具
-  - CNCKitchen/GCodeBending  # GCode弯曲脚本
-  - SheepChef/Abracadabra  # ⭐2,393 - 古文加密工具
-  - Sjj1024/PakePlus  # ⭐12,705 - 网页转桌面应用
-
-# 🌟 中文特色项目 (Chinese Projects)
-Chinese_Projects:
-  - Renhuai123/ziwei-doushu  # 紫微斗数排盘引擎
-  - 1c7/chinese-independent-developer  # ⭐48,717 - 中国独立开发者
-  - TapXWorld/ChinaTextbook  # ⭐71,643 - 中文教材集合
-  - JNingWei/Chinese_History  # ⭐144 - 中国历史电子书
-  - wechat-article/wechat-article-exporter  # ⭐11,141 - 微信导出工具
-  - robot-use  # 机器人相关
-  - yikart/AiToEarn  # ⭐17,611 - AI赚钱
-
-# 🎯 尚未分类 (Uncategorized)
-Other_Projects:
-  - bannedbook/fanqiang  # ⭐45,810 - 翻墙资源
-  - ihmily/proxy-guide  # ⭐629 - 科学上网教程
-  - roboflow/supervision  # ⭐39,846 - 计算机视觉工具
-  - v2fly/domain-list-community  # ⭐8,780 - V2Ray域名列表
-  - ruvnet/RuView  # ⭐70,285 - WiFi空间智能
-  - StevenMHernandez/ESP32-CSI-Tool  # ⭐504 - ESP32信息提取
-  - s60sc/ESP32-CAM_MJPEG2SD  # ⭐1,622 - ESP32摄像头
-  - sharpie7/circuitjs1  # ⭐2,852 - 在线电路模拟
-  - 0015/ThatProject  # ⭐2,404 - 综合项目示例
-  - joey-zhou/xiaozhi-esp32-server-java  # ⭐1,265 - 小智ESP32服务
-  - huangjunsen0406/py-xiaozhi  # ⭐3,333 - 小智Python生态
-  - 78/xiaozhi-esp32  # ⭐26,968 - MCP聊天机器人
-  - xinnan-tech/xiaozhi-esp32-server  # ⭐9,714 - 小智后端服务
-  - ycheng517/ar4_ros_driver  # ⭐146 - AR4机械臂ROS驱动
-  - Duet3D/RepRapFirmware  # RepRap固件
-  - Baiyuetribe/paper2gui  # 论文GUI工具
-  - didi/LogicFlow  # ⭐6,100+ - 流程图编辑框架
-  - MatsuriDayo/NekoBoxForAndroid  # Android代理工具
-  - AUK9527/Are-u-ok  # 健康检查脚本
-  - knownsec/ZoomEye-python  # ZoomEye查询工具
-  - calzoom/shape_recognition  # 形状识别
-  - programthink/opensource  # 开源软件推荐
-  - wasmerio/Python-Scripts  # Python脚本集
-  - SubtitleEdit/subtitleedit  # 字幕编辑工具
-  - raryelcostasouza/pyTranscriber  # 音频转录
-  - KOP-XIAO/Clash-Merlin  # Clash梅林配置
-  - iptv-org/iptv  # IPTV列表
-  - Hyumaio/file-checksum  # 文件校验
-  - 0voice/algorithm-structure  # ⭐2,261 - 数据结构算法
-  - hanmaoye/IDM-Activation-Script  # ⭐1,012 - IDM激活脚本
-  - Klocman/Bulk-Crap-Uninstaller  # 垃圾卸载工具
-  - Baiyuetribe/paper2gui  # 论文转GUI
-  - wengbenjue/DeepLearning_Notes_CV  # 深度学习笔记
-  - binary-husky/gpt_academic  # GPT学术版
-  - RVC-Project/Retrieval-based-Voice-Conversion-WebUI  # 声音转换
-  - AbdelrahmanRadwan/object-detection  # 物体检测
-  - CodecWang/opencv-python-tutorial  # OpenCV教程
-  - fighting41love/funNLP  # 自然语言处理
-  - epiral/bb-sites  # bb-browser站点适配
-  - tickflow-org/tickflow  # 流程工具
-  - DOLY-DIY  # DIY项目
-  - wgwang/rstock-docs  # 股票文档
-  - neuks/Indicator  # 通达信指标
-  - Seedarchangel/TuChart  # 图表工具
-  - newhackerman/TDXPystock  # 同花顺接口
-  - mpquant/Ashare  # A股量化
-  - yiliuyan161/tdx  # TDX接口
-  - mpquant/MyTT  # 交易工具
-  - bensema/gotdx  # Go版TDX
-  - mootdx/mootdx  # Python TDX
-  - fmzquant/strategies  # 量化策略
-  - lh4d/quantfinance  # 量化金融
-  - byJoey/cfnew  # ⭐13,898 - Cloudflare新增
-  - hao15239129517/fq  # 翻墙工具
-  - selierlin/Share-SSR-V2ray  # SSR/V2Ray分享
-  - shadowsocks/shadowsocks-windows  # Shadowsocks
-  - 2dust/v2rayN  # ⭐15,000+ - V2RayN客户端
-  - Onezyh/Pages-Vless-SUB  # Pages VLESS
-  - Onezyh/Worker-Vless-2-SUB  # Worker VLESS
-  - freefq/free  # 免费代理
-  - china-testing/python_cn_resouce  # Python中文资源
-  - china-testing/bazi  # 八字命理
-  - xugaoxiang/learningPyQt5  # PyQt5教程
-  - AdvancingStone/stock-learning  # 股票学习
-  - mahavivo/scripta-sinica  # 汉籍电子化
-  - SumeLabs/clawra  # ⭐2,305 - OpenClaw伴侣
-  - nearai/ironclaw  # ⭐12,393 - Agent OS
-  - istree/s3-slicer  # 3D切片
-  - roboflow/supervision  # ⭐39,846 - CV工具
-  - automaticdai/awesome-robotics-ee-opensource  # ⭐383 - 机器人开源
-  - iotdesignshop/dexhand-mechanical-build  # ⭐52 - 灵巧手
-  - TheRobotStudio/V1.0-Dexhand  # ⭐522 - Dexhand版本
-  - sczhou/CodeFormer  # 人脸修复
-  - jyjblrd/Radial_Non_Planar_Slicer  # 径向非平面
-  - jyjblrd/Core-R-Theta-4-Axis-Printer  # 4轴打印机
-  - Pacmanfan/MultiScan  # 多扫描
-
-# ============================================
-# 统计信息
-# ============================================
-# 总项目���：200+
-# 主要分类：20+
-# 最高Stars：LangChain (138,359)
-# 最受欢迎类别：AI Agent框架、自托管工具、视频生成
-# 中文项目占比：约30%
-# 更新日期：2026-06-04
+AI/ML:
+- nexu-io/html-video
+- lewislulu/html-ppt-skill
+- K-Dense-AI/scientific-agent-skills
+- duhow/xiaoai-patch
+- wiltodelta/remove-ai-watermarks
+- jamiepine/voicebox
+- jau123/MeiGen-AI-Design-MCP
+- mrslimslim/gpt-image-canvas
+- freestylefly/awesome-gpt-image-2
+- abus-aikorea/voice-pro
+- HunxByts/GhostTrack
+- aivrar/portable-hermes-agent
+- YouMind-OpenLab/awesome-gpt-image-2
+- zubair-trabzada/ai-legal-claude
+- Alishahryar1/free-claude-code
+- EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
+- modelscope/FunASR
+- zai-org/GLM-OCR
+- NousResearch/hermes-agent
+- microsoft/VibeVoice
+- linyqh/NarratoAI
+- jnMetaCode/agency-agents-zh
+- swufe-xiongmin/free_premium_ai
+- yikart/AiToEarn
+- LingyiChen-AI/AIComicBuilder
+- iOfficeAI/AionUi
+- MatrixA/aicheck
+- zhayujie/CowAgent
+- THU-MAIC/OpenMAIC
+- msitarzewski/agency-agents
+- bytedance/deer-flow
+- ailyProject/aily-blockly
+- DayuanJiang/next-ai-draw-io
+- agentscope-ai/QwenPaw
+- oficcejo/aiagents-stock
+- AI-FanGe/OpenAIglasses_for_Navigation
+- roboflow/supervision
+- v2fly/domain-list-community
+- opendatalab/MinerU
+- Shubhamsaboo/awesome-llm-apps
+- x1xhlol/system-prompts-and-models-of-ai-tools
+- unclecode/crawl4ai
+- a-ghorbani/pocketpal-ai
+- deepseek-ai/awesome-deepseek-integration
+- Comfy-Org/ComfyUI
+- QwenLM/Qwen3
+- langchain-ai/langchain
+- FunAudioLLM/CosyVoice
+- LiLittleCat/awesome-free-chatgpt
+- xxxily/hello-ai
+- RVC-Boss/GPT-SoVITS
+- xaseven/chatgptcnserver
+- bupticybee/ChineseAiDungeonChatGPT
+- fighting41love/funNLP
+- AbdelrahmanRadwan/object-detection
+- CodecWang/opencv-python-tutorial
+- AARG-FAN/DesktopAI
+- netease-youdao/EmotiVoice
+- xtekky/gpt4free
+- yihong0618/xiaogpt
+- nextai-translator/nextai-translator
+- jiran214/langup-ai
+- FreedomIntelligence/HuatuoGPT-II
+- binary-husky/gpt_academic
+- wengbenjue/DeepLearning_Notes_CV
+- hiroi-sora/Umi-OCR
+- AUTOMATIC1111/stable-diffusion-webui
+- RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+- AntonOsika/gpt-engineer
+3DM/P/AI:
+- RotBotSlicer/Nonplanar_Slicing
+- MrXujiang/HiCAD
+- huangserva/3DCellForge
+- earthtojake/text-to-cad
+- microsoft/TRELLIS.2
+- mrdoob/three.js
+- playcanvas/supersplat
+- CNCKitchen/stlTexturizer
+- Zhilips/Zperiod
+- harry0703/MoneyPrinterTurbo
+- kovacsv/Online3DViewer
+- 666ghj/MiroFish
+- xiangechen/chili3d
+- Roetz4point0/Roetz-End
+- SheepChef/Abracadabra
+- Sjj1024/PakePlus
+- sls4all/SLS4All.Compact
+- IljaRukin/scara_plotter
+- madl3x/x-scara
+- zhangty019/S3_DeformFDM
+- jyjblrd/S4_Slicer
+- TengerTechnologies/Smoothificator
+- teachingtechYT/PrusaSlicer
+- cooljjj33/PolyDye
+- dreamgaussian/dreamgaussian
+- AiuniAI/Unique3D
+- VAST-AI-Research/TripoSR
+- JonnyBooker/split-flap
+- sczhou/CodeFormer
+- jyjblrd/Radial_Non_Planar_Slicer
+- jyjblrd/Core-R-Theta-4-Axis-Printer
+- gnea/grbl
+- Pacmanfan/MultiScan
+Robot:
+- TetherIA/aero-hand-open
+- zsibot/matrix
+- freemocap/freemocap
+- Seeed-Projects/reBot-DevArm
+- dorianborian/sesame-robot
+- asimovinc/asimov-v0
+- enactic/openarm
+- HybridRobotics/Berkeley-Humanoid-Lite
+- chvmp/champ
+- mit-biomimetics/Cheetah-Software
+- open-dynamic-robot-initiative/open_robot_actuator_hardware
+- open-dynamic-robot-initiative/master-board
+- OpenDriveLab/AgiBot-World
+- XRobots/ReallyUsefulRobot
+- mjyc/awesome-robotics-projects
+- datalab-to/chandra
+- automaticdai/awesome-robotics-ee-opensource
+- iotdesignshop/dexhand-mechanical-build
+- TheRobotStudio/V1.0-Dexhand
+- pollen-robotics/AmazingHand
+- huggingface/lerobot
+- Vector-Wangel/XLeRobot
+- GuoxinFang/SoftRobotKinematics
+- apirrone/Open_Duck_Mini
+- ongdexter/ar3_core
+- openai/swarm
+- Gsllchb/Handright
+- kivvi3412/HandWrite
+AI Projects:
+- ComposioHQ/awesome-codex-skills
+- asgeirtj/system_prompts_leaks
+- easychen/howto-make-more-money
+- zhiziX/zhiziX
+- MeiGen-AI/InfiniteTalk
+- opendataloader-project/opendataloader-pdf
+- epiral/bb-sites
+- tanweai/pua
+- garrytan/gstack
+- deepbeepmeep/Wan2GP
+- robotdoly/DOLY-DIY
+- jujumilk3/leaked-system-prompts
+- modelcontextprotocol/servers
+- yuaotian/go-cursor-help
+- unslothai/unsloth
+- FoundationAgents/OpenManus
+- firecrawl/firecrawl
+- cline/mcp-marketplace
+- n4ze3m/page-assist
+- lobehub/lobehub
+- Plachtaa/VALL-E-X
+- Anjok07/ultimatevocalremovergui
+- Baiyuetribe/paper2gui
+- Plachtaa/VITS-fast-fine-tuning
+- Shiriluz/Word-As-Image
+- YUANZHUO-BNU/metahuman_overview
+- yakami129/VirtualWife
+- kleinlee/DH_live
+- mut-ex/gligen-gui
+- facefusion/facefusion
+- apache/answer
+- Rudrabha/Wav2Lip
+- OpenTalker/video-retalking
+- effusiveperiscope/so-vits-svc
+- suno-ai/bark
+TopGoodTool:
+- averygan/reclip
+- HBAI-Ltd/Toonflow-app
+- HKUDS/CLI-Anything
+- avacocloud/XHTTP-Installer
+- jackwener/wx-cli
+- bytedance/UI-TARS-desktop
+- Z4nzu/hackingtool
+- AIDC-AI/Pixelle-Video
+- jackwener/OpenCLI
+- ssrajadh/sentrysearch
+- echohive42/AI-reads-books-page-by-page
+- ChrisTitusTech/winutil
+- santifer/career-ops
+- arduino/arduino-cli
+- siddharthvaddem/openscreen
+- Yeachan-Heo/oh-my-codex
+- op7418/logo-generator-skill
+- fathyb/carbonyl
+- datawhalechina/easy-vibe
+- xiaohuailabs/xiaohu-wechat-format
+- nashsu/AutoCLI
+- OpenDemon/Pilipili-AutoVideo
+- putyy/res-downloader
+- pascalorg/editor
+- pinokiocomputer/pinokio
+- zhouxiaoka/autoclip
+- frappe/books
+- RfidResearchGroup/proxmark3
+- immich-app/immich
+- DavidXanatos/TaskExplorer
+- RICHQAQ/PasteMD
+- AlexanderPro/SmartSystemMenu
+- teslamate-org/teslamate
+- GopeedLab/gopeed
+- fish2018/pansou
+- SuperManito/LinuxMirrors
+- BeyondDimension/SteamTools
+- linsa-io/linsa
+- mayswind/ezbookkeeping
+- Aleksoid1978/MPC-BE
+- imfile-io/imfile-desktop
+- TOM88812/xiaozhi-android-client
+- microsoft/PowerToys
+- TengerTechnologies/Fuzzyficator
+- Klocman/Bulk-Crap-Uninstaller
+- termux/termux-app
+Finance:
+- HKUDS/Vibe-Trading
+- sansan0/TrendRadar
+- Fincept-Corporation/FinceptTerminal
+- virattt/dexter
+- Rockyzsu/stock
+- tickflow-org/tickflow
+- ZhuLinsen/daily_stock_analysis
+- hsliuping/TradingAgents-CN
+- charliedream1/ai_quant_trade
+- joshyattridge/smart-money-concepts
+- wgwang/rstock-docs
+- neuks/Indicator
+- yijixiuxin/chanlun-pro
+- waditu/czsc
+- Vespa314/chan.py
+- Seedarchangel/TuChart
+- newhackerman/TDXPystock
+- mpquant/Ashare
+- yiliuyan161/tdx
+- mpquant/MyTT
+- bensema/gotdx
+- mootdx/mootdx
+- fmzquant/strategies
+- lh4d/quantfinance
+NetworkTools:
+- InterceptSuite/ProxyBridge
+- igareck/vpn-configs-for-russia
+- proxifly/free-proxy-list
+- wuqb2i4f/xray-config-toolkit
+- eooce/Cloudflare-proxy
+- ihmily/proxy-guide
+- byJoey/cfnew
+- yonggekkk/Cloudflare-vless-trojan
+- DigitalPlatDev/FreeDomain
+- openwrt/openwrt
+- hao15239129517/fq
+- selierlin/Share-SSR-V2ray
+- shadowsocks/shadowsocks-windows
+- 2dust/v2rayN
+- Onezyh/Pages-Vless-SUB
+- Onezyh/Worker-Vless-2-SUB
+- freefq/free
+Books/Learning:
+- teng-lin/notebooklm-py
+- Renhuai123/ziwei-doushu
+- joeseesun/qiaomu-anything-to-notebooklm
+- XiaomingX/ai-money-maker-handbook
+- alchaincyf/huashu-design
+- HKUDS/DeepTutor
+- Developer-Y/cs-video-courses
+- janeczku/calibre-web
+- Anduin2017/HowToCook
+- exacity/deeplearningbook-chinese
+- JNingWei/Chinese_History
+- TapXWorld/ChinaTextbook
+- shjwudp/shu
+- krahets/hello-algo
+- ruanyf/weekly
+- china-testing/python_cn_resouce
+- china-testing/bazi
+- xugaoxiang/learningPyQt5
+- AdvancingStone/stock-learning
+- mahavivo/scripta-sinica
+ClawFamily:
+- Russell-cell/PPT-Design-Prompt
+- alchaincyf/darwin-skill
+- EKKOLearnAI/hermes-web-ui
+- rowboatlabs/rowboat
+- VoltAgent/awesome-openclaw-skills
+- FreedomIntelligence/OpenClaw-Medical-Skills
+- cft0808/edict
+- SumeLabs/clawra
+- nearai/ironclaw
+舆情分析:
+- tmwgsicp/wechat-download-api
+- koala73/worldmonitor
+- Thysrael/Horizon
+- new-economy/MindSpider
+- qeeqbox/social-analyzer
+- 666ghj/BettaFish
+- awesomedata/awesome-public-datasets
+ESP32/Hardware:
+- QuantumNous/new-api
+- Wei-Shaw/sub2api
+- algotao/pidoc-site-zhcn
+- ruvnet/RuView
+- StevenMHernandez/ESP32-CSI-Tool
+- s60sc/ESP32-CAM_MJPEG2SD
+- 0015/ThatProject
+- joey-zhou/xiaozhi-esp32-server-java
+- sharpie7/circuitjs1
+- zhuhai-esp/ESP32-S3-AmourK08-4Keys
+- espressif/esp-box
+- huangjunsen0406/py-xiaozhi
+- 78/xiaozhi-esp32
+- xinnan-tech/xiaozhi-esp32-server
+- ycheng517/ar4_ros_driver
+- Duet3D/RepRapFirmware
+Skill Box:
+- yaojingang/yao-geo-skills
+- alchaincyf/nuwa-skill
+- handsomestWei/patent-disclosure-skill
+- Fokkyp/SoftwareCopyright-Skill
+- mvanhorn/last30days-skill
+- shizhilya/yuan
+- 0voice/algorithm-structure
+- iptv-org/iptv
+- Hyumaio/file-checksum
+- KOP-XIAO/Clash-Merlin
+- AUK9527/Are-u-ok
+- knownsec/ZoomEye-python
+- calzoom/shape_recognition
+- programthink/opensource
+- wasmerio/Python-Scripts
+- SubtitleEdit/subtitleedit
+- raryelcostasouza/pyTranscriber
+- gradio-app/gradio
+- MatsuriDayo/NekoBoxForAndroid
+- didi/LogicFlow
+- jellyfin/jellyfin
+- IceWhaleTech/CasaOS
+Web:
+- Stremio/stremio-web
+- JCodesMore/ai-website-cloner-template
+- public-apis/public-apis
+- meshtastic/web-flasher
+- browser-use/web-ui
+Dev:
+- 88lin/video_vip
+- Jane-xiaoer/xiaoer-videolab
+- Hmbown/CodeWhale
+- CNCKitchen/GCodeBending
+- Augani/openreel-video
+- liyupi/ai-guide
+- cheahjs/free-llm-api-resources
+- dmtrKovalenko/fff
+- 1c7/chinese-independent-developer
+- Yuexuan9/Tinker
+- earthspecies/library
+- WangGithubUser/FastGitHub
+- 521xueweihan/GitHub520
+- go2coding/go2coding.github.io
+- PyQt5/PyQt
+- cxinping/PyQt5
+Media:
+- baidu/ERNIE-Image
+- boona13/image-extender
+- neilsonnn/image-blaster
+- wendy7756/AI-Video-Transcriber
+- Zeyi-Lin/HivisionIDPhotos
+- mifi/lossless-cut
+- w-okada/voice-changer
+Cloud:
+- zhuima/awesome-cloudflare
+- istoreos/istoreos-cloud
+OS:
+- dockur/windows
+SmartHome:
+- home-assistant/home-assistant.io
+Download:
+- tonhowtf/omniget
+- aandrew-me/ytDownloader
+MindMap/Doc:
+- Robbyant/lingbot-map
+- wanglin2/mind-map
+其他:
+- ihmily/DouyinLiveRecorder
+- chenglou/pretext
+- nexu-io/open-design
+- pewdiepie-archdaemon/odysseus
+- OpenCut-app/OpenCut
+- duixcom/Duix-Avatar
+- Lynpoint/CyberVerse
+- frappe/erpnext
+- santinic/audiblez
+- Michael-A-Kuykendall/shimmy
+- 40rbidd3n/Hydro0x01
+- wechat-article/wechat-article-exporter
+- mattzh72/articraft
+- c0re100/qBittorrent-Enhanced-Edition
+- diegosouzapw/OmniRoute
+- tinyhumansai/openhuman
+- zarazhangrui/follow-builders
+- earthtojake/step.parts
+- arcsin1/oh-my-ppt
+- AIScientists-Dev/WorldSeed
+- supertone-inc/supertonic
+- HeyPuter/puter
+- fspecii/ace-step-ui
+- crmeb/CRMEB
+- anonfaded/FadCam
+- yt-dlp/yt-dlp
+- lightningpixel/modly
+- bannedbook/fanqiang
+- companion-inc/feynman
+- nanobrowser/nanobrowser
+- OpenGeometry-io/OpenGeometry
+- yaojingang/yao-open-prompts
+- hanmaoye/IDM-Activation-Script
+- D4Vinci/Scrapling
