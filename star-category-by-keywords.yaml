@@ -1,4 +1,6 @@
 AI/ML:
+- rohitg00/ai-engineering-from-scratch
+- jd-opensource/JoyAI-Echo
 - nexu-io/html-video
 - lewislulu/html-ppt-skill
 - K-Dense-AI/scientific-agent-skills
@@ -69,6 +71,8 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- ANYCUBIC-3D/AnycubicSlicerNext
+- apinanaivot/IKEA-3D-Model-Download-Button
 - RotBotSlicer/Nonplanar_Slicing
 - MrXujiang/HiCAD
 - huangserva/3DCellForge
@@ -212,7 +216,7 @@ TopGoodTool:
 - TOM88812/xiaozhi-android-client
 - microsoft/PowerToys
 - TengerTechnologies/Fuzzyficator
-- Klocman/Bulk-Crap-Uninstaller
+- BCUninstaller/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
 - HKUDS/Vibe-Trading
@@ -258,6 +262,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- jbiaojerry/ebook-treasure-chest
 - teng-lin/notebooklm-py
 - Renhuai123/ziwei-doushu
 - joeseesun/qiaomu-anything-to-notebooklm
@@ -314,6 +319,9 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- Leonxlnx/taste-skill
+- HKUSTDial/Supervisor-Skills
+- GordenSun/GordenSuperPPTSkills
 - yaojingang/yao-geo-skills
 - alchaincyf/nuwa-skill
 - handsomestWei/patent-disclosure-skill
@@ -381,6 +389,8 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- chopratejas/headroom
+- byoungd/English-level-up-tips
 - ihmily/DouyinLiveRecorder
 - chenglou/pretext
 - nexu-io/open-design
