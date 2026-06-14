@@ -351,6 +351,7 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- b-nnett/codex-plusplus
 - 88lin/video_vip
 - Jane-xiaoer/xiaoer-videolab
 - Hmbown/CodeWhale
