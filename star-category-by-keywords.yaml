@@ -1,4 +1,5 @@
 AI/ML:
+- Panniantong/Agent-Reach
 - rohitg00/ai-engineering-from-scratch
 - jd-opensource/JoyAI-Echo
 - nexu-io/html-video
@@ -16,7 +17,6 @@ AI/ML:
 - YouMind-OpenLab/awesome-gpt-image-2
 - zubair-trabzada/ai-legal-claude
 - Alishahryar1/free-claude-code
-- EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
 - modelscope/FunASR
 - zai-org/GLM-OCR
 - NousResearch/hermes-agent
@@ -71,6 +71,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- alicevision/Meshroom
 - ANYCUBIC-3D/AnycubicSlicerNext
 - apinanaivot/IKEA-3D-Model-Download-Button
 - RotBotSlicer/Nonplanar_Slicing
@@ -291,7 +292,7 @@ ClawFamily:
 - VoltAgent/awesome-openclaw-skills
 - FreedomIntelligence/OpenClaw-Medical-Skills
 - cft0808/edict
-- SumeLabs/clawra
+- sumelabs/clawra
 - nearai/ironclaw
 舆情分析:
 - tmwgsicp/wechat-download-api
@@ -391,6 +392,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- NickeManarin/ScreenToGif
 - OthmanAdi/planning-with-files
 - p-e-w/heretic
 - headroomlabs-ai/headroom
