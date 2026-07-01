@@ -71,6 +71,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- TencentARC/Pixal3D
 - alicevision/Meshroom
 - ANYCUBIC-3D/AnycubicSlicerNext
 - apinanaivot/IKEA-3D-Model-Download-Button
@@ -320,6 +321,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- nextlevelbuilder/ui-ux-pro-max-skill
 - dexhunter/seedance2-skill
 - Leonxlnx/taste-skill
 - HKUSTDial/Supervisor-Skills
@@ -392,11 +394,13 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Anttwo/SuGaR
+- manycoretech/aholo-viewer
 - NickeManarin/ScreenToGif
 - OthmanAdi/planning-with-files
 - p-e-w/heretic
 - headroomlabs-ai/headroom
-- byoungd/English-level-up-tips
+- byoungd/up
 - ihmily/DouyinLiveRecorder
 - chenglou/pretext
 - nexu-io/open-design
