@@ -1,4 +1,7 @@
 AI/ML:
+- TencentARC/GFPGAN
+- xinntao/Real-ESRGAN
+- Sanster/IOPaint
 - Panniantong/Agent-Reach
 - rohitg00/ai-engineering-from-scratch
 - jd-opensource/JoyAI-Echo
@@ -182,7 +185,7 @@ TopGoodTool:
 - jackwener/wx-cli
 - bytedance/UI-TARS-desktop
 - Z4nzu/hackingtool
-- AIDC-AI/Pixelle-Video
+- ATH-MaaS/Pixelle-Video
 - jackwener/OpenCLI
 - ssrajadh/sentrysearch
 - echohive42/AI-reads-books-page-by-page
@@ -349,6 +352,7 @@ Skill Box:
 - jellyfin/jellyfin
 - IceWhaleTech/CasaOS
 Web:
+- NdoleStudio/httpsms
 - Stremio/stremio-web
 - JCodesMore/ai-website-cloner-template
 - public-apis/public-apis
@@ -394,6 +398,8 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- upscayl/upscayl
+- danielgatis/rembg
 - Anttwo/SuGaR
 - manycoretech/aholo-viewer
 - NickeManarin/ScreenToGif
