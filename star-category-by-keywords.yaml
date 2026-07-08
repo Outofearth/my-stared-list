@@ -1,4 +1,5 @@
 AI/ML:
+- xbtlin/ai-berkshire
 - TencentARC/GFPGAN
 - xinntao/Real-ESRGAN
 - Sanster/IOPaint
@@ -225,6 +226,7 @@ TopGoodTool:
 - BCUninstaller/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
+- coreyhaines31/marketingskills
 - HKUDS/Vibe-Trading
 - sansan0/TrendRadar
 - Fincept-Corporation/FinceptTerminal
@@ -324,6 +326,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- kangarooking/cangjie-skill
 - nextlevelbuilder/ui-ux-pro-max-skill
 - dexhunter/seedance2-skill
 - Leonxlnx/taste-skill
@@ -398,6 +401,9 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- yqxie1991/WxCleaner
+- usestrix/strix
+- baojie/shiji-kb
 - upscayl/upscayl
 - danielgatis/rembg
 - Anttwo/SuGaR
