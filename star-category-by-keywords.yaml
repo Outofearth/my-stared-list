@@ -75,6 +75,8 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- adriflex/autoremesher-blender-bridge
+- huxingyi/autoremesher
 - TencentARC/Pixal3D
 - alicevision/Meshroom
 - ANYCUBIC-3D/AnycubicSlicerNext
@@ -401,6 +403,8 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Rem0o/FanControl.Releases
+- opulo-inc/lumenpnp
 - yqxie1991/WxCleaner
 - usestrix/strix
 - baojie/shiji-kb
