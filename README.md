@@ -180,7 +180,7 @@
 - [sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
 - [AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page) - AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv...
 - [winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, ...
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -239,7 +239,7 @@
 - [quantfinance](https://github.com/lh4d/quantfinance) - everything quantitative finance related
 
 ## NetworkTools (15)
-- [free-proxy-list](https://github.com/proxifly/free-proxy-list) - a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
+- [free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 - [xray-config-toolkit](https://github.com/wuqb2i4f/xray-config-toolkit) - protocol (trojan, vless, vmess) network (grpc, httpupgrade, raw, ws, xhttp) security (none, reality, tls)
 - [Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
 - [proxy-guide](https://github.com/ihmily/proxy-guide) - 一本从零基础到精通的科学上网技术完整教程
@@ -281,7 +281,7 @@
 - [ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 
 ## 舆情分析 (7)
-- [wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控，支持mcp接入各种Agent工具。
+- [wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、RSS 订阅 API 服务，支持整号文章一键导出 7 种格式（Markdown/HTML/Word/PDF/EPUB/Excel/JSON）、IP 代理池反风控、MCP 接入各种 AI Agent 工具。
 - [worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 - [MindSpider](https://github.com/new-economy/MindSpider) - MindSpider：专为舆情分析设计的AI爬虫
@@ -386,7 +386,7 @@
 - [Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH...
 - [seedance2-skill](https://github.com/dexhunter/seedance2-skill) - skill to create best prompts for generating videos with seedance2.0
-- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen...
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi...
 - [heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [codex-plusplus](https://github.com/b-nnett/codex-plusplus) - Codex++ tweak system for the Codex desktop app
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -440,7 +440,7 @@
 - [XHTTP-Installer](https://github.com/avacocloud/XHTTP-Installer) - VLESS+XHTTP+TLS Auto-Installer for Ubuntu — Vercel / Netlify relay
 - [image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
-- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quot...
+- [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod...
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) - Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
 - [openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
