@@ -10,14 +10,14 @@
 | **手动执行** | 进入 Actions → 选择 workflow → 点击 "Run workflow" |
 | **自定义归类** | 编辑 `star-category.yaml`，将项目移到目标类别即可 |
 
-## AI/ML (71)
+## AI/ML (70)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola...
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) - Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.
 - [darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons...
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear...
-- [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
+- [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
 - [FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 - [huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
@@ -55,7 +55,6 @@
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-...
 - [algorithm-structure](https://github.com/0voice/algorithm-structure) - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
@@ -359,7 +358,7 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (129)
+## 未分组 (130)
 - [nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
 - [blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [building_tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender
@@ -454,7 +453,7 @@
 - [step.parts](https://github.com/earthtojake/step.parts) - 12,000+ open source STEP parts for your next CAD project
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio.
 - [oh-my-ppt](https://github.com/arcsin1/oh-my-ppt) - Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.
-- [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill，从项目文档到可交付的技术交底书，专利点挖掘、联网国知局查新、脱敏成文与自检闭环。
+- [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：从项目文档到交底书编写（挖点·查新·脱敏成文）+ 专利通俗解读（叙事·图谱·Obsidian 私库）。
 - [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [WorldSeed](https://github.com/AIScientists-Dev/WorldSeed) - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.
 - [supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -488,6 +487,7 @@
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
 - [clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
 - [linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 
 > 本页由自动脚本生成，分组可手动编辑 star-category.yaml
