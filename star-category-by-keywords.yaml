@@ -1,4 +1,5 @@
 AI/ML:
+- MadsLorentzen/ai-job-search
 - cenglin123/SteganographierGUI
 - xbtlin/ai-berkshire
 - TencentARC/GFPGAN
@@ -53,7 +54,7 @@ AI/ML:
 - Comfy-Org/ComfyUI
 - QwenLM/Qwen3
 - langchain-ai/langchain
-- FunAudioLLM/CosyVoice
+- QwenAudio/CosyVoice
 - LiLittleCat/awesome-free-chatgpt
 - xxxily/hello-ai
 - RVC-Boss/GPT-SoVITS
@@ -76,6 +77,8 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- ahujasid/blender-mcp
+- vilemduha/blendercam
 - adriflex/autoremesher-blender-bridge
 - huxingyi/autoremesher
 - TencentARC/Pixal3D
@@ -181,6 +184,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- ranjian0/building_tools
 - jlcodes99/cockpit-tools
 - averygan/reclip
 - HBAI-Ltd/Toonflow-app
@@ -403,6 +407,8 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Heinz-Loepmeier/nozzleboss
+- BigDawnGhost/wenyi
 - Rem0o/FanControl.Releases
 - opulo-inc/lumenpnp
 - yqxie1991/WxCleaner
