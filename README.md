@@ -144,7 +144,7 @@
 - [HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
 
 ## AI Projects (28)
-- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -...
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, ...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [zhiziX](https://github.com/zhiziX/zhiziX) - 一个在线实验室，提供丰富的自媒体创作工具。
 - [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -422,7 +422,7 @@
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl...
 - [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) - An open-source Skill collection for GEO content and workflows, continuously updated.
 - [CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
-- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 148 ready-to-use skills plus 100+ scientific databases covering biology, chemist...
+- [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 154 ready-to-use skills plus 100+ scientific databases covering biology, chemist...
 - [xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
