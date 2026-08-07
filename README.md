@@ -29,7 +29,7 @@
 - [xiaohu-wechat-format](https://github.com/xiaohuailabs/xiaohu-wechat-format) - Claude Code 公众号一键排版+发布技能 | Markdown → 微信兼容 HTML → 推送草稿箱 | 30 套主题 + 可视化画廊
 - [free_premium_ai](https://github.com/swufe-xiongmin/free_premium_ai) - 收录可以免费使用能力较强的AI的合集，尽量筛选较为稳定的平台，但希望合理预期，免费，稳定，高性能是不可能三角A list of highly capable AI models you can use for free. We’ve tried to select the most stable platforms, but keep in mind the "impossible triangl...
 - [AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
-- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!
 - [aicheck](https://github.com/MatrixA/aicheck) - Detect AI-generated images, video, and audio by analyzing metadata and invisible watermarks. Offline. No API keys.
 - [CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form...
 - [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
@@ -358,7 +358,7 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (138)
+## 未分组 (137)
 - [decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [three-scope-map-skill](https://github.com/songsummer920-dazzle/three-scope-map-skill) - 3D Map
 - [blcaptain-style-skill](https://github.com/dososo/blcaptain-style-skill) - 中文图文卡片生成 Skill：一段内容 → 海报级图文组图（小红书 3:4 / 公众号封面）。1 引擎 + 3 视觉语言（静纸 Still Paper / 实证 Signal Proof / 图桥 Bridge Canvas），智能驱动 + 独家影像配方。
@@ -478,7 +478,6 @@
 - [feynman](https://github.com/companion-inc/feynman) - 
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers...
-- [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - powerful cad kernel for web
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
