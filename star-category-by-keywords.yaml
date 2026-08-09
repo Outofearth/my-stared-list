@@ -79,7 +79,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
-- ahujasid/blender-mcp
+- MCPBlender/blender-mcp
 - vilemduha/blendercam
 - adriflex/autoremesher-blender-bridge
 - huxingyi/autoremesher
@@ -379,7 +379,6 @@ Dev:
 - CNCKitchen/GCodeBending
 - Augani/openreel-video
 - liyupi/ai-guide
-- cheahjs/free-llm-api-resources
 - dmtrKovalenko/fff
 - 1c7/chinese-independent-developer
 - Yuexuan9/Tinker
