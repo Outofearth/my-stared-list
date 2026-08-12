@@ -1,4 +1,5 @@
 AI/ML:
+- Nutlope/logocreator
 - dososo/blcaptain-style-skill
 - scottstts/Threejs-Awesome-Graphics-Agent-Skills
 - MadsLorentzen/ai-job-search
@@ -79,7 +80,8 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
-- MCPBlender/blender-mcp
+- wjakob/instant-meshes
+- ahujasid/blender-mcp
 - vilemduha/blendercam
 - adriflex/autoremesher-blender-bridge
 - huxingyi/autoremesher
@@ -121,6 +123,7 @@ AI/ML:
 - gnea/grbl
 - Pacmanfan/MultiScan
 Robot:
+- gnipbao/story-to-handdrawn-video
 - TetherIA/aero-hand-open
 - zsibot/matrix
 - freemocap/freemocap
@@ -335,6 +338,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- zhaoxuya520/reverse-skill
 - songsummer920-dazzle/three-scope-map-skill
 - kangarooking/cangjie-skill
 - nextlevelbuilder/ui-ux-pro-max-skill
@@ -410,6 +414,10 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- hasderhi/LANFileShare
+- liketrek/TREK
+- aceberg/WatchYourLAN
+- veracrypt/VeraCrypt
 - bashalarmistalt/decimen-optical-transfer
 - dososo/chinese-traditional-patterns
 - img2threejs/img2threejs
