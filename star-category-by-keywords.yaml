@@ -32,7 +32,6 @@ AI/ML:
 - microsoft/VibeVoice
 - linyqh/NarratoAI
 - jnMetaCode/agency-agents-zh
-- swufe-xiongmin/free_premium_ai
 - yikart/AiToEarn
 - LingyiChen-AI/AIComicBuilder
 - iOfficeAI/AionUi
@@ -129,7 +128,7 @@ Robot:
 - freemocap/freemocap
 - Seeed-Projects/reBot-DevArm
 - dorianborian/sesame-robot
-- asimovinc/asimov-v0
+- menloresearch/asimov-v0
 - enactic/openarm
 - HybridRobotics/Berkeley-Humanoid-Lite
 - chvmp/champ
@@ -414,6 +413,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- FareedKhan-dev/kimi-k3-in-c
 - hasderhi/LANFileShare
 - liketrek/TREK
 - aceberg/WatchYourLAN
