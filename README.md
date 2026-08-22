@@ -245,7 +245,7 @@
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged...
 - [fq](https://github.com/hao15239129517/fq) - 翻墙工具收集，翻墙免费软件、免费ss账号、vps便宜网站
-- [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
+- [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐、Clash / V2ray 客户端配置与代理工具指南
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [Pages-Vless-SUB](https://github.com/Onezyh/Pages-Vless-SUB) - 
