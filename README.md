@@ -264,7 +264,7 @@
 - [hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [python_cn_resouce](https://github.com/china-testing/python_cn_resouce) - python书籍免费下载；python库参考；Django、Flask、FastAPI资源大全、DevOps资源大全、python测试库资源大全。公众号：pythontesting
-- [bazi](https://github.com/china-testing/bazi) - python八字排盘软件。清晰看出冲刑合会、阴阳等关系，并有凝聚大师多年经验的评判。另有合婚、风水等功能。
+- [bazi](https://github.com/china-testing/bazi) - python八字排盘软件。清晰看出冲刑合会、阴阳等关系，并有凝聚大师多年经验的评判。另有合婚、风水等功能及手相教程。
 - [learningPyQt5](https://github.com/xugaoxiang/learningPyQt5) - All about PyQt5
 - [stock-learning](https://github.com/AdvancingStone/stock-learning) - 股票入门之系统学习
 - [scripta-sinica](https://github.com/mahavivo/scripta-sinica) - 汉语古典文本资料库
