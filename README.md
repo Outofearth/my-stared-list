@@ -10,7 +10,7 @@
 | **手动执行** | 进入 Actions → 选择 workflow → 点击 "Run workflow" |
 | **自定义归类** | 编辑 `star-category.yaml`，将项目移到目标类别即可 |
 
-## AI/ML (69)
+## AI/ML (70)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola...
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) - Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No install. No Docker. No admin rights.
@@ -18,6 +18,7 @@
 - [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons...
 - [ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear...
 - [free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) - GPT-Image-2 API and Prompts
 - [FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 - [huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
@@ -112,14 +113,13 @@
 - [grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 - [MultiScan](https://github.com/Pacmanfan/MultiScan) - A 3d scanning library and test application. can generate point cloud from scanned laser / camera images
 
-## Robot (27)
+## Robot (26)
 - [aero-hand-open](https://github.com/TetherIA/aero-hand-open) - https://shop.tetheria.ai/
 - [matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 - [sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 - [openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
-- [Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) - Codebase for Berkeley Humanoid Lite
 - [champ](https://github.com/chvmp/champ) - MIT Cheetah I Implementation
 - [Cheetah-Software](https://github.com/mit-biomimetics/Cheetah-Software) - 
 - [open_robot_actuator_hardware](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware) - 
@@ -356,7 +356,7 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (147)
+## 未分组 (148)
 - [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 - [LANFileShare](https://github.com/hasderhi/LANFileShare) - A cool tool to easily share files on your local network. Written in C# using .NET Windows Forms
 - [instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
@@ -493,13 +493,14 @@
 - [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
-- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 - [yuan](https://github.com/shizhilya/yuan) - Yuan (元) — a unified destiny-reading skill for Codex, Claude Code, and Agent Skills runtimes. One input surface, six methods (BaZi / Cheng Gu / Numerology / Western / Vedic / Zi Wei), production-grade...
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 - [asimov-v0](https://github.com/menloresearch/asimov-v0) - v0 of Asimov, an open-source humanoid robot
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
+- [berkeley-humanoid-lite](https://github.com/HybridRobotics/berkeley-humanoid-lite) - Codebase for Berkeley Humanoid Lite
 - [clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
 - [linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
