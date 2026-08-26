@@ -26,6 +26,7 @@ AI/ML:
 - YouMind-OpenLab/awesome-gpt-image-2
 - zubair-trabzada/ai-legal-claude
 - Alishahryar1/free-claude-code
+- EvoLinkAI/awesome-gpt-image-2-API-and-Prompts
 - modelscope/FunASR
 - zai-org/GLM-OCR
 - NousResearch/hermes-agent
@@ -130,7 +131,7 @@ Robot:
 - dorianborian/sesame-robot
 - menloresearch/asimov-v0
 - enactic/openarm
-- HybridRobotics/Berkeley-Humanoid-Lite
+- HybridRobotics/berkeley-humanoid-lite
 - chvmp/champ
 - mit-biomimetics/Cheetah-Software
 - open-dynamic-robot-initiative/open_robot_actuator_hardware
