@@ -171,13 +171,12 @@
 - [video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [so-vits-svc](https://github.com/effusiveperiscope/so-vits-svc) - so-vits-svc
 
-## TopGoodTool (38)
+## TopGoodTool (37)
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
 - [AI-reads-books-page-by-page](https://github.com/echohive42/AI-reads-books-page-by-page) - AI reads books: Page-by-Page PDF Knowledge Extractor & Summarizer. script performs an intelligent page-by-page analysis of PDF books, methodically extracting knowledge points and generating progressiv...
 - [winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...
 - [arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -357,7 +356,7 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (156)
+## 未分组 (157)
 - [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) - 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
@@ -508,6 +507,7 @@
 - [yuan](https://github.com/shizhilya/yuan) - Yuan (元) — a unified destiny-reading skill for Codex, Claude Code, and Agent Skills runtimes. One input surface, six methods (BaZi / Cheng Gu / Numerology / Western / Vedic / Zi Wei), production-grade...
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
+- [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...
 - [asimov-v0](https://github.com/menloresearch/asimov-v0) - v0 of Asimov, an open-source humanoid robot
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
 - [berkeley-humanoid-lite](https://github.com/HybridRobotics/berkeley-humanoid-lite) - Codebase for Berkeley Humanoid Lite
