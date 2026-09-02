@@ -1,4 +1,5 @@
 AI/ML:
+- garychowcmu/daizhigev20
 - Anil-matcha/Open-Generative-AI
 - debpalash/VoiceStudio
 - Nutlope/logocreator
@@ -82,6 +83,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- manycore-research/ComfyUI-Lux3D
 - wjakob/instant-meshes
 - ahujasid/blender-mcp
 - vilemduha/blendercam
@@ -205,7 +207,7 @@ TopGoodTool:
 - ssrajadh/sentrysearch
 - echohive42/AI-reads-books-page-by-page
 - ChrisTitusTech/winutil
-- santifer/career-ops
+- career-ops-hq/career-ops
 - arduino/arduino-cli
 - siddharthvaddem/openscreen
 - Yeachan-Heo/oh-my-codex
@@ -230,7 +232,7 @@ TopGoodTool:
 - fish2018/pansou
 - SuperManito/LinuxMirrors
 - BeyondDimension/SteamTools
-- linsa-io/linsa.io
+- linsa-io/linsa
 - mayswind/ezbookkeeping
 - Aleksoid1978/MPC-BE
 - imfile-io/imfile-desktop
@@ -284,6 +286,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- tradecatlabs/shulihuazixuecongshu
 - jbiaojerry/ebook-treasure-chest
 - teng-lin/notebooklm-py
 - Renhuai123/ziwei-doushu
@@ -382,7 +385,7 @@ Dev:
 - b-nnett/codex-plusplus
 - 88lin/video_vip
 - Jane-xiaoer/xiaoer-videolab
-- Hmbown/CodeWhale
+- Hmbown/Codewhale
 - CNCKitchen/GCodeBending
 - Augani/openreel-video
 - liyupi/ai-guide
