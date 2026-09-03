@@ -48,7 +48,7 @@
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V...
 - [crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
-- [unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [TripoSR](https://github.com/VAST-AI-Research/TripoSR) - TripoSR: Fast 3D Object Reconstruction from a Single Image
@@ -215,7 +215,7 @@
 - [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i...
 - [dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
-- [tickflow](https://github.com/tickflow-org/tickflow) - 
+- [tickflow](https://github.com/tickflow-org/tickflow) - Professional financial data API for China A-shares, US & HK stocks. Python SDK with real-time quotes, K-line data & financial reports.
 - [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f...
 - [TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [ai_quant_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、大模型、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
@@ -356,12 +356,13 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (157)
+## 未分组 (158)
+- [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4...
 - [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) - 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
 - [nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
-- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license...
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license...
 - [rnskill](https://github.com/Pluviobyte/rnskill) - 雪踏乌云的 AI Agent Skills 集合
 - [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
@@ -444,7 +445,7 @@
 - [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li...
 - [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) - An open-source Skill collection for GEO content and workflows, continuously updated.
-- [CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog...
 - [xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
