@@ -142,7 +142,7 @@
 - [HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
 
 ## AI Projects (28)
-- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, ...
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [zhiziX](https://github.com/zhiziX/zhiziX) - 一个在线实验室，提供丰富的自媒体创作工具。
 - [opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -356,7 +356,15 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (164)
+## 未分组 (172)
+- [zlib-mcp](https://github.com/shiyi-0x7f/zlib-mcp) - 
+- [zlibrary](https://github.com/desonglll/zlibrary) - torrent for Zlibrary
+- [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
+- [reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+- [o-lib](https://github.com/shiyi-0x7f/o-lib) - O-lib is a free and open-source software application for PC
+- [FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器
+- [OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
+- [ESPNowCam](https://github.com/hpsaturn/ESPNowCam) - ESPNowCam, a straightforward video streamer for popular ESP32Cam models, leveraging the ESPNow and WiFi-raw protocols. No need for IPs, routers, or credentials-keeping it simple! :D
 - [ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
 - [human-atlas](https://github.com/ashemag/human-atlas) - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 - [OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-e...
@@ -498,7 +506,7 @@
 - [modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu...
-- [feynman](https://github.com/companion-inc/feynman) - 
+- [feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers...
 - [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - powerful cad kernel for web
