@@ -356,7 +356,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (172)
+## 未分组 (173)
+- [zlibrary-CLI](https://github.com/baroxyton/zlibrary-CLI) - A cli for ZLibrary
 - [zlib-mcp](https://github.com/shiyi-0x7f/zlib-mcp) - 
 - [zlibrary](https://github.com/desonglll/zlibrary) - torrent for Zlibrary
 - [rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]
