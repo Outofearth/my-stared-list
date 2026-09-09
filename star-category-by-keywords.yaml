@@ -349,6 +349,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- kajisho5/ffmpeg-skill
 - Pluviobyte/rnskill
 - zhaoxuya520/reverse-skill
 - songsummer920-dazzle/three-scope-map-skill
@@ -388,6 +389,8 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- baroxyton/zlibrary-CLI
+- desonglll/zlibrary
 - b-nnett/codex-plusplus
 - 88lin/video_vip
 - Jane-xiaoer/xiaoer-videolab
@@ -418,6 +421,7 @@ Cloud:
 OS:
 - dockur/windows
 SmartHome:
+- kritishmohapatra/100_Days_100_IoT_Projects
 - home-assistant/home-assistant.io
 Download:
 - tonhowtf/omniget
@@ -426,6 +430,10 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- shiyi-0x7f/zlib-mcp
+- roboflow/rf-detr
+- bin456789/reinstall
+- shiyi-0x7f/o-lib
 - FB208/OpenBidKit_Yibiao
 - ashemag/human-atlas
 - zidniryi/unbagrnd
