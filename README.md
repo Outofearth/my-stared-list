@@ -26,7 +26,7 @@
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [NarratoAI](https://github.com/linyqh/NarratoAI) - 利用 AI 大模型，一键解说并剪辑视频
 - [InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
-- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 267 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 52 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
+- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 - [xiaohu-wechat-format](https://github.com/xiaohuailabs/xiaohu-wechat-format) - Claude Code 公众号一键排版+发布技能 | Markdown → 微信兼容 HTML → 推送草稿箱 | 30 套主题 + 可视化画廊
 - [AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
@@ -186,7 +186,7 @@
 - [AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 5...
 - [Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo) - 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
 - [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-- [editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
+- [editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 - [pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [books](https://github.com/frappe/books) - Free Accounting Software
@@ -252,14 +252,13 @@
 - [Worker-Vless-2-SUB](https://github.com/Onezyh/Worker-Vless-2-SUB) - 
 - [free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
-## Books/Learning (15)
+## Books/Learning (14)
 - [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ...
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 - [Chinese_History](https://github.com/JNingWei/Chinese_History) - Complete set of Chinese History E-books. :books: 完整全套的中国历史电子版
-- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [shu](https://github.com/shjwudp/shu) - 中文书籍收录整理, Collection of Chinese Books
 - [hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -438,7 +437,7 @@
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) - 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。
 - [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
@@ -498,7 +497,7 @@
 - [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
 - [SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill) - 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
 - [WorldSeed](https://github.com/AIScientists-Dev/WorldSeed) - More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.
-- [supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
 - [CRMEB](https://github.com/crmeb/CRMEB) - 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议
