@@ -113,8 +113,7 @@
 - [grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 - [MultiScan](https://github.com/Pacmanfan/MultiScan) - A 3d scanning library and test application. can generate point cloud from scanned laser / camera images
 
-## Robot (26)
-- [aero-hand-open](https://github.com/TetherIA/aero-hand-open) - https://shop.tetheria.ai/
+## Robot (25)
 - [matrix](https://github.com/zsibot/matrix) - MATRiX is an advanced simulation platform that integrates MuJoCo, Unreal Engine 5, and CARLA to provide high-fidelity, interactive environments for robotics research.
 - [freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 - [reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
@@ -252,13 +251,14 @@
 - [Worker-Vless-2-SUB](https://github.com/Onezyh/Worker-Vless-2-SUB) - 
 - [free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
-## Books/Learning (14)
+## Books/Learning (15)
 - [ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version ...
 - [DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 - [Chinese_History](https://github.com/JNingWei/Chinese_History) - Complete set of Chinese History E-books. :books: 完整全套的中国历史电子版
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [shu](https://github.com/shjwudp/shu) - 中文书籍收录整理, Collection of Chinese Books
 - [hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -355,7 +355,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (177)
+## 未分组 (179)
+- [LetRecovery](https://github.com/NORMAL-EX/LetRecovery) - 一款免费开源的 Windows 系统重装工具
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
 - [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - 
@@ -489,7 +490,7 @@
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline ...
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) - Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
-- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.
+- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 - [HiCAD](https://github.com/MrXujiang/HiCAD) - HiCAD,一款AI驱动的CAD建模平台
 - [openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
@@ -526,6 +527,7 @@
 - [yuan](https://github.com/shizhilya/yuan) - Yuan (元) — a unified destiny-reading skill for Codex, Claude Code, and Agent Skills runtimes. One input surface, six methods (BaZi / Cheng Gu / Numerology / Western / Vedic / Zi Wei), production-grade...
 - [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
+- [aero-hand-open](https://github.com/Chestnut-Robotics/aero-hand-open) - https://shop.tetheria.ai/
 - [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...
 - [asimov-v0](https://github.com/menloresearch/asimov-v0) - v0 of Asimov, an open-source humanoid robot
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
