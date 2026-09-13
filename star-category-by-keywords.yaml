@@ -84,6 +84,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- cp9no1/PrinterService
 - manycore-research/ComfyUI-Lux3D
 - wjakob/instant-meshes
 - ahujasid/blender-mcp
@@ -131,7 +132,7 @@ Robot:
 - PetoiCamp/OpenCatEsp32-Quadruped-Robot
 - pollen-robotics/microduck
 - gnipbao/story-to-handdrawn-video
-- TetherIA/aero-hand-open
+- Chestnut-Robotics/aero-hand-open
 - zsibot/matrix
 - freemocap/freemocap
 - Seeed-Projects/reBot-DevArm
@@ -430,6 +431,9 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- NORMAL-EX/LetRecovery
+- microsoft/markitdown
+- autonomous-ai/autonomous-os
 - shiyi-0x7f/zlib-mcp
 - roboflow/rf-detr
 - bin456789/reinstall
@@ -485,7 +489,7 @@ MindMap/Doc:
 - earthtojake/step.parts
 - arcsin1/oh-my-ppt
 - AIScientists-Dev/WorldSeed
-- supertone-inc/supertonic
+- supertone-oss-archive/supertonic
 - HeyPuter/puter
 - fspecii/ace-step-ui
 - crmeb/CRMEB
