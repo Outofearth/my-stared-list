@@ -1,4 +1,5 @@
 AI/ML:
+- Vincentwei1021/anything2explainer
 - shuyu-labs/BigBanana-AI-Director
 - garychowcmu/daizhigev20
 - Anil-matcha/Open-Generative-AI
@@ -409,6 +410,7 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- mikf/gallery-dl
 - baidu/ERNIE-Image
 - boona13/image-extender
 - neilsonnn/image-blaster
@@ -431,6 +433,11 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- larashero3-dotcom/lieflat-gongwen
+- google/magika
+- localsend/localsend
+- multimodal-art-projection/YuE
+- searxng/searxng
 - NORMAL-EX/LetRecovery
 - microsoft/markitdown
 - autonomous-ai/autonomous-os
