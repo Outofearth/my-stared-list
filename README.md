@@ -140,7 +140,7 @@
 - [Handright](https://github.com/Gsllchb/Handright) - A lightweight Python library for simulating Chinese handwriting
 - [HandWrite](https://github.com/kivvi3412/HandWrite) - 本项目为解决一些大学无用手写作业
 
-## AI Projects (28)
+## AI Projects (27)
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B...
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [zhiziX](https://github.com/zhiziX/zhiziX) - 一个在线实验室，提供丰富的自媒体创作工具。
@@ -152,10 +152,9 @@
 - [web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine...
-- [firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of...
 - [page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
@@ -352,7 +351,7 @@
 - [ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop app to download audio/video from hundreds of sites
 
 ## MindMap/Doc (2)
-- [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
 ## 未分组 (187)
@@ -410,7 +409,7 @@
 - [img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir...
 - [Threejs-Awesome-Graphics-Agent-Skills](https://github.com/scottstts/Threejs-Awesome-Graphics-Agent-Skills) - A three.js agent skills for producing awesome graphics for scenes and games
-- [blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
+- [mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [nozzleboss](https://github.com/Heinz-Loepmeier/nozzleboss) - 
 - [blendercam](https://github.com/vilemduha/blendercam) - Automatically exported from code.google.com/p/blendercam
 - [building_tools](https://github.com/ranjian0/building_tools) - Building generation addon for blender
