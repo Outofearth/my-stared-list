@@ -271,7 +271,7 @@
 
 ## ClawFamily (6)
 - [PPT-Design-Prompt](https://github.com/Russell-cell/PPT-Design-Prompt) - 
-- [rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
+- [rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) - The largest open-source medical AI skills library for OpenClaw🦞.
 - [edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
@@ -356,7 +356,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (187)
+## 未分组 (188)
+- [ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interf...
 - [lieflat-gongwen](https://github.com/larashero3-dotcom/lieflat-gongwen) - 通过102万字语料提炼的公文写作 skill，把公文写作风格变成可测量、可验收的量化数据
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer) - Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. C...
 - [magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
@@ -520,7 +521,7 @@
 - [modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU
 - [fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu...
-- [feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
+- [feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers...
 - [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - powerful cad kernel for web
