@@ -38,6 +38,7 @@ AI/ML:
 - microsoft/VibeVoice
 - linyqh/NarratoAI
 - jnMetaCode/agency-agents-zh
+- swufe-xiongmin/free_premium_ai
 - yikart/AiToEarn
 - LingyiChen-AI/AIComicBuilder
 - iOfficeAI/AionUi
@@ -88,7 +89,7 @@ AI/ML:
 - cp9no1/PrinterService
 - manycore-research/ComfyUI-Lux3D
 - wjakob/instant-meshes
-- ahujasid/blender-mcp
+- ahujasid/mcp-for-blender
 - vilemduha/blendercam
 - adriflex/autoremesher-blender-bridge
 - huxingyi/autoremesher
@@ -332,6 +333,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- EmenstaNougat/ESP32-BlueJammer
 - hpsaturn/ESPNowCam
 - DroneBridge/ESP32
 - QuantumNous/new-api
@@ -504,7 +506,7 @@ MindMap/Doc:
 - yt-dlp/yt-dlp
 - lightningpixel/modly
 - bannedbook/fanqiang
-- advaitpaliwal/feynman
+- Companion-Inc/feynman
 - nanobrowser/nanobrowser
 - OpenGeometry-io/OpenGeometry
 - yaojingang/yao-open-prompts
