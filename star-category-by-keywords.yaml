@@ -86,6 +86,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- cartesiancs/map3d
 - cp9no1/PrinterService
 - manycore-research/ComfyUI-Lux3D
 - wjakob/instant-meshes
@@ -393,6 +394,8 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Dev:
+- cshuangyy/videdown
+- KuekHaoYang/KVideo
 - baroxyton/zlibrary-CLI
 - desonglll/zlibrary
 - b-nnett/codex-plusplus
@@ -435,6 +438,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- QL-Win/QuickLook
 - larashero3-dotcom/lieflat-gongwen
 - google/magika
 - localsend/localsend
@@ -512,4 +516,4 @@ MindMap/Doc:
 - yaojingang/yao-open-prompts
 - hanmaoye/IDM-Activation-Script
 - D4Vinci/Scrapling
-- EKKOLearnAI/hermes-studio
+- EKKOLearnAI/ekko-studio
