@@ -356,7 +356,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (192)
+## 未分组 (193)
+- [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [videdown](https://github.com/cshuangyy/videdown) - Videdown 是一款现代化的开源视频下载工具，让你可以从抖音 小红书 B站 YT Instagram等网站下载无水印高清视频
 - [map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F. Include building and road information.
 - [KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
