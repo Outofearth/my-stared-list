@@ -192,7 +192,7 @@
 - [books](https://github.com/frappe/books) - Free Accounting Software
 - [proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
+- [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager for Windows and Linux
 - [PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -356,7 +356,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (193)
+## 未分组 (194)
+- [PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [videdown](https://github.com/cshuangyy/videdown) - Videdown 是一款现代化的开源视频下载工具，让你可以从抖音 小红书 B站 YT Instagram等网站下载无水印高清视频
 - [map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F. Include building and road information.
@@ -470,7 +471,7 @@
 - [open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli...
 - [html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An...
 - [ERNIE-Image](https://github.com/baidu/ERNIE-Image) - ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches st...
-- [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc...
+- [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源 AI 创作平台，融合无限画布、AI Agent 与可视化工作流，支持图像生成、视频生成、智能分镜及短剧创作。支持本地部署、自由接入模型，提供跨平台桌面端，并可通过 MCP 与插件扩展创作能力。Open-source AI creative platform with an infinite canvas, AI agents and visual workflows fo...
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 - [image-extender](https://github.com/boona13/image-extender) - Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.
 - [omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M...
@@ -505,7 +506,7 @@
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline ...
 - [MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) - Supports GPT Image 2, Seedance & ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system
-- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
+- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
 - [follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 - [HiCAD](https://github.com/MrXujiang/HiCAD) - HiCAD,一款AI驱动的CAD建模平台
 - [openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
