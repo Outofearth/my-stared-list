@@ -1,4 +1,5 @@
 AI/ML:
+- cclank/lanshu-create-ai-presenter-video
 - Vincentwei1021/anything2explainer
 - shuyu-labs/BigBanana-AI-Director
 - garychowcmu/daizhigev20
@@ -86,6 +87,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- tommasobbianchi/mesh2step
 - cartesiancs/map3d
 - cp9no1/PrinterService
 - manycore-research/ComfyUI-Lux3D
@@ -275,6 +277,7 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- laoma2053/awesome-zhuiju-free
 - siknet/FreePEP
 - InterceptSuite/ProxyBridge
 - igareck/vpn-configs-for-russia
@@ -334,6 +337,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- palemoky/chinese-poetry-api
 - EmenstaNougat/ESP32-BlueJammer
 - hpsaturn/ESPNowCam
 - DroneBridge/ESP32
@@ -432,12 +436,13 @@ SmartHome:
 - kritishmohapatra/100_Days_100_IoT_Projects
 - home-assistant/home-assistant.io
 Download:
-- tonhowtf/omniget
 - aandrew-me/ytDownloader
 MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- NandhaKishorM/laya
+- NawfalMotii79/PLFM_RADAR
 - QL-Win/QuickLook
 - larashero3-dotcom/lieflat-gongwen
 - google/magika
