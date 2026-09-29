@@ -87,7 +87,7 @@
 - [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
-- [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer) - 
+- [stlTexturizer](https://github.com/CNCKitchen/stlTexturizer) - Add a phyiscal texture to your 3D Print.
 - [Zperiod](https://github.com/Zhilips/Zperiod) - Interactive Periodic table with 3D atoms
 - [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
@@ -356,7 +356,12 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (198)
+## 未分组 (203)
+- [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) - 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill
+- [gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
+- [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+- [financial-report-minesweeper](https://github.com/terancejiang/financial-report-minesweeper) - 财报排雷工具 - A-share financial report fraud/risk detection based on Tang Chao's methodology. Claude Code Skill with 28-rule checklist.
+- [AIHOT](https://github.com/KKKKhazix/AIHOT) - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 - [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 - [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
