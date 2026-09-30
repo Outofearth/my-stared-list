@@ -1,4 +1,8 @@
 AI/ML:
+- NarratorAI-Studio/narrator-ai-cli-skill
+- soxoj/maigret
+- mokshablr/gander
+- KKKKhazix/AIHOT
 - cclank/lanshu-create-ai-presenter-video
 - Vincentwei1021/anything2explainer
 - shuyu-labs/BigBanana-AI-Director
@@ -277,6 +281,7 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- Hidashimora/free-vpn-anti-rkn
 - laoma2053/awesome-zhuiju-free
 - siknet/FreePEP
 - InterceptSuite/ProxyBridge
@@ -329,6 +334,7 @@ ClawFamily:
 - sumelabs/clawra
 - nearai/ironclaw
 舆情分析:
+- smicallef/spiderfoot
 - tmwgsicp/wechat-download-api
 - koala73/worldmonitor
 - Thysrael/Horizon
@@ -391,13 +397,17 @@ Skill Box:
 - jellyfin/jellyfin
 - IceWhaleTech/CasaOS
 Web:
+- eooce/node-ws
 - NdoleStudio/httpsms
 - Stremio/stremio-web
 - JCodesMore/ai-website-cloner-template
 - public-apis/public-apis
 - meshtastic/web-flasher
 - browser-use/web-ui
+Awesome:
+- jivoi/awesome-osint
 Dev:
+- terancejiang/financial-report-minesweeper
 - cshuangyy/videdown
 - KuekHaoYang/KVideo
 - baroxyton/zlibrary-CLI
@@ -419,6 +429,7 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- chengyi-ai/native-subtitle-quote-image
 - mikf/gallery-dl
 - baidu/ERNIE-Image
 - boona13/image-extender
@@ -436,11 +447,19 @@ SmartHome:
 - kritishmohapatra/100_Days_100_IoT_Projects
 - home-assistant/home-assistant.io
 Download:
+- EthanYoQ/Invoice-Downloader
 - aandrew-me/ytDownloader
 MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- NVlabs/Eagle
+- ERRRC/xingcezhenti
+- laramies/theHarvester
+- achillean/shodan-python
+- fuxiaoai/tidings-rss
+- antoniaci/blackbird
+- eternity4719/HowToLiveBetter
 - NandhaKishorM/laya
 - NawfalMotii79/PLFM_RADAR
 - QL-Win/QuickLook
