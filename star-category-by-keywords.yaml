@@ -1,10 +1,11 @@
 AI/ML:
+- addyosmani/agent-skills
+- Usagi-org/ai-goofish-monitor
 - NarratorAI-Studio/narrator-ai-cli-skill
 - soxoj/maigret
 - mokshablr/gander
 - KKKKhazix/AIHOT
 - cclank/lanshu-create-ai-presenter-video
-- Vincentwei1021/anything2explainer
 - shuyu-labs/BigBanana-AI-Director
 - garychowcmu/daizhigev20
 - Anil-matcha/Open-Generative-AI
@@ -91,6 +92,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- wy51ai/floorplan-3d
 - tommasobbianchi/mesh2step
 - cartesiancs/map3d
 - cp9no1/PrinterService
@@ -138,6 +140,7 @@ AI/ML:
 - gnea/grbl
 - Pacmanfan/MultiScan
 Robot:
+- OpenHands/OpenHands
 - PetoiCamp/OpenCatEsp32-Quadruped-Robot
 - pollen-robotics/microduck
 - gnipbao/story-to-handdrawn-video
@@ -206,6 +209,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- 0voice/expert_readed_books
 - iOfficeAI/OfficeCLI
 - ranjian0/building_tools
 - jlcodes99/cockpit-tools
@@ -281,6 +285,7 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- codeman008/Financial_freedom
 - Hidashimora/free-vpn-anti-rkn
 - laoma2053/awesome-zhuiju-free
 - siknet/FreePEP
@@ -364,6 +369,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- product-on-purpose/pm-skills
 - kajisho5/ffmpeg-skill
 - Pluviobyte/rnskill
 - zhaoxuya520/reverse-skill
@@ -397,6 +403,7 @@ Skill Box:
 - jellyfin/jellyfin
 - IceWhaleTech/CasaOS
 Web:
+- VectifyAI/PageIndex
 - eooce/node-ws
 - NdoleStudio/httpsms
 - Stremio/stremio-web
@@ -405,8 +412,11 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Awesome:
+- lukasz-madon/awesome-remote-job
+- sindresorhus/awesome
 - jivoi/awesome-osint
 Dev:
+- YILS-LIN/short-video-factory
 - terancejiang/financial-report-minesweeper
 - cshuangyy/videdown
 - KuekHaoYang/KVideo
@@ -450,6 +460,7 @@ Download:
 - EthanYoQ/Invoice-Downloader
 - aandrew-me/ytDownloader
 MindMap/Doc:
+- omkarcloud/google-maps-scraper
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
