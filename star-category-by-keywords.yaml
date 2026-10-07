@@ -6,6 +6,8 @@ AI/ML:
 - mokshablr/gander
 - KKKKhazix/AIHOT
 - cclank/lanshu-create-ai-presenter-video
+- Vincentwei1021/anything2explainer
+- autonomous-ai/Physical-AI-Operating-System
 - shuyu-labs/BigBanana-AI-Director
 - garychowcmu/daizhigev20
 - Anil-matcha/Open-Generative-AI
@@ -287,7 +289,7 @@ Finance:
 NetworkTools:
 - codeman008/Financial_freedom
 - Hidashimora/free-vpn-anti-rkn
-- laoma2053/awesome-zhuiju-free
+- laoma528/awesome-zhuiju-free
 - siknet/FreePEP
 - InterceptSuite/ProxyBridge
 - igareck/vpn-configs-for-russia
@@ -425,7 +427,7 @@ Dev:
 - b-nnett/codex-plusplus
 - 88lin/video_vip
 - Jane-xiaoer/xiaoer-videolab
-- Hmbown/Codewhale
+- codewhale-hq/Codewhale
 - CNCKitchen/GCodeBending
 - Augani/openreel-video
 - liyupi/ai-guide
@@ -481,7 +483,6 @@ MindMap/Doc:
 - searxng/searxng
 - NORMAL-EX/LetRecovery
 - microsoft/markitdown
-- autonomous-ai/autonomous-os
 - shiyi-0x7f/zlib-mcp
 - roboflow/rf-detr
 - bin456789/reinstall
