@@ -408,7 +408,7 @@
 - [PrinterService](https://github.com/cp9no1/PrinterService) - 基于@a937750307 项目lan-printing的修改
 - [LetRecovery](https://github.com/NORMAL-EX/LetRecovery) - 一款免费开源的 Windows 系统重装工具
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
+- [Physical-AI-Operating-System](https://github.com/autonomous-ai/Physical-AI-Operating-System) - The open-source operating system for physical AI.
 - [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - 
 - [100_Days_100_IoT_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) - A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and exp...
 - [zlibrary-CLI](https://github.com/baroxyton/zlibrary-CLI) - A cli for ZLibrary
@@ -490,7 +490,7 @@
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+- [up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
 - [Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) - 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。
 - [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
