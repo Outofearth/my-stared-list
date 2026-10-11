@@ -211,6 +211,8 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- HD838A/remote-mic-app
+- YerongAI/Office-Tool
 - 0voice/expert_readed_books
 - iOfficeAI/OfficeCLI
 - ranjian0/building_tools
@@ -418,6 +420,7 @@ Awesome:
 - sindresorhus/awesome
 - jivoi/awesome-osint
 Dev:
+- Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 - YILS-LIN/short-video-factory
 - terancejiang/financial-report-minesweeper
 - cshuangyy/videdown
@@ -466,6 +469,11 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- goodseafly/how-to-make-work-pay
+- zerx-lab/FluxDown
+- happycola233/tchMaterial-parser
+- qingjian-team/qingjian
+- KingKongRobotics/jumper
 - NVlabs/Eagle
 - ERRRC/xingcezhenti
 - laramies/theHarvester
@@ -486,7 +494,7 @@ MindMap/Doc:
 - shiyi-0x7f/zlib-mcp
 - roboflow/rf-detr
 - bin456789/reinstall
-- shiyi-0x7f/o-lib
+- shiyi-0x7f/OlibTauri
 - FB208/OpenBidKit_Yibiao
 - ashemag/human-atlas
 - zidniryi/unbagrnd
