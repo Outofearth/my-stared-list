@@ -1,4 +1,7 @@
 AI/ML:
+- onehumanbeing/esp32-iphone-agent
+- martin-olivier/airgorah
+- computer-vision-with-marco/yolo-training-template
 - addyosmani/agent-skills
 - Usagi-org/ai-goofish-monitor
 - NarratorAI-Studio/narrator-ai-cli-skill
@@ -7,7 +10,6 @@ AI/ML:
 - KKKKhazix/AIHOT
 - cclank/lanshu-create-ai-presenter-video
 - Vincentwei1021/anything2explainer
-- autonomous-ai/Physical-AI-Operating-System
 - shuyu-labs/BigBanana-AI-Director
 - garychowcmu/daizhigev20
 - Anil-matcha/Open-Generative-AI
@@ -184,7 +186,6 @@ AI Projects:
 - epiral/bb-sites
 - tanweai/pua
 - garrytan/gstack
-- deepbeepmeep/Wan2GP
 - robotdoly/DOLY-DIY
 - jujumilk3/leaked-system-prompts
 - modelcontextprotocol/servers
@@ -289,6 +290,8 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- zizifn/edgetunnel
+- cmliu/edgetunnel
 - codeman008/Financial_freedom
 - Hidashimora/free-vpn-anti-rkn
 - laoma528/awesome-zhuiju-free
@@ -352,6 +355,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- esphome/esphome
 - palemoky/chinese-poetry-api
 - EmenstaNougat/ESP32-BlueJammer
 - hpsaturn/ESPNowCam
@@ -469,6 +473,17 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- BasedHardware/omi
+- cosmo-wander-ai/cosmo-edge
+- Joooook/12306-mcp
+- wled/WLED
+- arendst/Tasmota
+- PAICNI/CFNext
+- AIPMAndy/how-to-survive-unemployment
+- ZuodaoTech/everyone-can-use-english
+- xiaolai/the-craft-of-selfteaching
+- geekan/HowToLiveLonger
+- perkfly/reverse-interview-zh
 - goodseafly/how-to-make-work-pay
 - zerx-lab/FluxDown
 - happycola233/tchMaterial-parser
@@ -491,6 +506,7 @@ MindMap/Doc:
 - searxng/searxng
 - NORMAL-EX/LetRecovery
 - microsoft/markitdown
+- autonomous-ai/lampOS
 - shiyi-0x7f/zlib-mcp
 - roboflow/rf-detr
 - bin456789/reinstall
@@ -561,3 +577,4 @@ MindMap/Doc:
 - hanmaoye/IDM-Activation-Script
 - D4Vinci/Scrapling
 - EKKOLearnAI/ekko-studio
+- deepbeepmeep/WanGP
