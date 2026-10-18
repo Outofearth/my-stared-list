@@ -354,7 +354,9 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (261)
+## 未分组 (263)
+- [anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+- [ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support...
 - [hardware-fix](https://github.com/apachecn/hardware-fix) - :books: 硬件维修维护教程
 - [xai](https://github.com/PlaiPin/xai) - xAI library compatible with ESP-IDF
 - [CFData-WEB](https://github.com/PoemMisty/CFData-WEB) - CFData-Web 是一个基于 Go 开发的 Cloudflare IP 测试与筛选工具
@@ -549,7 +551,7 @@
 - [xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
-- [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and...
 - [CyberVerse](https://github.com/Lynpoint/CyberVerse) - Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.
 - [Nonplanar_Slicing](https://github.com/RotBotSlicer/Nonplanar_Slicing) - 
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -599,7 +601,7 @@
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
 - [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use.
 - [IDM-Activation-Script](https://github.com/hanmaoye/IDM-Activation-Script) - IDM 激活脚本
-- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri...
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https...
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
