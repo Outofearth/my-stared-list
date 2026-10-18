@@ -1,4 +1,7 @@
 AI/ML:
+- PlaiPin/xai
+- LancelotRar/best-cf-domains
+- leemysw/yovoice
 - onehumanbeing/esp32-iphone-agent
 - martin-olivier/airgorah
 - computer-vision-with-marco/yolo-training-template
@@ -223,7 +226,6 @@ TopGoodTool:
 - HKUDS/CLI-Anything
 - avacocloud/XHTTP-Installer
 - bytedance/UI-TARS-desktop
-- Z4nzu/hackingtool
 - ATH-MaaS/Pixelle-Video
 - jackwener/OpenCLI
 - ssrajadh/sentrysearch
@@ -355,6 +357,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- apachecn/hardware-fix
 - esphome/esphome
 - palemoky/chinese-poetry-api
 - EmenstaNougat/ESP32-BlueJammer
@@ -411,6 +414,7 @@ Skill Box:
 - jellyfin/jellyfin
 - IceWhaleTech/CasaOS
 Web:
+- PoemMisty/CFData-WEB
 - VectifyAI/PageIndex
 - eooce/node-ws
 - NdoleStudio/httpsms
@@ -473,6 +477,11 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- wheresryan22/anatomy
+- hugohe3/ppt-master
+- hmjz100/LinkSwift
+- heygen-com/hyperframes
+- zhongerxin/iPhone-use
 - BasedHardware/omi
 - cosmo-wander-ai/cosmo-edge
 - Joooook/12306-mcp
