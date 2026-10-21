@@ -46,7 +46,7 @@
 - [MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V...
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m...
 - [pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -354,7 +354,16 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (266)
+## 未分组 (275)
+- [wrench-board](https://github.com/Junkz3/wrench-board) - A senior microsoldering technician, available to every repair shop from the seasoned pro to the apprentice. Powered by Claude Opus 5
+- [Tianji](https://github.com/SocialAI-tianji/Tianji) - 制作懂人情世故的大语言模型 | 涵盖提示词工程、RAG、Agent、LLM微调教程
+- [SocialCoach](https://github.com/GeminiLight/SocialCoach) - Your personal EQ coach. Build social skills and learn to handle conflict through realistic role-play and personalized feedback.
+- [HowToGetAlong](https://github.com/kkk-bot/HowToGetAlong) - 面向大学生和初入职场者，讲清大学课堂里往往没有系统教过的人情世故、沟通技巧与社会规则。遇到合作、求助、拒绝、金钱、礼节和冲突时，帮助你理解事情怎么做、话怎么说，以及一个选择可能付出的代价，少走弯路，更从容地进入社会。
+- [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- [everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
+- [esp-emulator](https://github.com/espressif/esp-emulator) - Emulator for ESP32 Series SoCs
+- [esp32sim](https://github.com/mikroverk/esp32sim) - Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.
+- [velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou...
 - [tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
 - [iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 - [anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
@@ -462,7 +471,7 @@
 - [unbagrnd](https://github.com/zidniryi/unbagrnd) - Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, Linux and Android.
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) - BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
 - [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus o...
-- [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) - 
+- [shulihuazixuecongshu](https://github.com/tradecatlabs-projects/shulihuazixuecongshu) - 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
 - [nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
