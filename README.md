@@ -621,7 +621,7 @@
 - [feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.
 - [new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers...
-- [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - powerful cad kernel for web
+- [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - Cad Kernel for Humans and AI Agents
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
 - [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use.
