@@ -1,4 +1,6 @@
 AI/ML:
+- jangviktor-web/nihaixia-app
+- jangviktor-web/nihaixia
 - PlaiPin/xai
 - LancelotRar/best-cf-domains
 - leemysw/yovoice
@@ -20,7 +22,7 @@ AI/ML:
 - Nutlope/logocreator
 - dososo/blcaptain-style-skill
 - scottstts/Threejs-Awesome-Graphics-Agent-Skills
-- MadsLorentzen/ai-job-search
+- ai-job-search-dev/ai-job-search
 - cenglin123/SteganographierGUI
 - xbtlin/ai-berkshire
 - TencentARC/GFPGAN
@@ -99,6 +101,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- mfranzon/print3d
 - wy51ai/floorplan-3d
 - tommasobbianchi/mesh2step
 - cartesiancs/map3d
@@ -267,6 +270,8 @@ TopGoodTool:
 - BCUninstaller/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
+- simonlin1212/TradingAgents-astock
+- simonlin1212/a-stock-data
 - shy3130/tick-stock-panel
 - coreyhaines31/marketingskills
 - HKUDS/Vibe-Trading
@@ -318,6 +323,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- RealKai42/qwerty-learner
 - tradecatlabs-projects/shulihuazixuecongshu
 - jbiaojerry/ebook-treasure-chest
 - teng-lin/notebooklm-py
@@ -457,6 +463,8 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- NanmiCoder/MediaCrawler
+- OpenMOSS/MOSS-Image
 - chengyi-ai/native-subtitle-quote-image
 - mikf/gallery-dl
 - baidu/ERNIE-Image
@@ -470,6 +478,7 @@ Cloud:
 - zhuima/awesome-cloudflare
 - istoreos/istoreos-cloud
 OS:
+- simonlin1212/Vibe-Research
 - dockur/windows
 SmartHome:
 - kritishmohapatra/100_Days_100_IoT_Projects
@@ -479,10 +488,18 @@ Download:
 - EthanYoQ/Invoice-Downloader
 - aandrew-me/ytDownloader
 MindMap/Doc:
+- DeanChensj/jiangshan-map
 - omkarcloud/google-maps-scraper
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- ARahim3/DigUp
+- xiaoyang111222/cn-math-taxonomy
+- drunkdream/weread-exporter
+- Molly1116/Antigravity-China-Access
+- morluto/rea
+- JoasASantos/REA-Prompts
+- tangency-labs/solidcraft
 - Junkz3/wrench-board
 - SocialAI-tianji/Tianji
 - GeminiLight/SocialCoach
@@ -577,7 +594,7 @@ MindMap/Doc:
 - wechat-article/wechat-article-exporter
 - mattzh72/articraft
 - c0re100/qBittorrent-Enhanced-Edition
-- diegosouzapw/OmniRoute
+- cheaper-inference/OmniRoute
 - tinyhumansai/openhuman
 - zarazhangrui/follow-builders
 - earthtojake/step.parts
