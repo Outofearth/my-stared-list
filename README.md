@@ -354,9 +354,14 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (296)
+## 未分组 (301)
+- [MacCheck](https://github.com/andyhuo520/MacCheck) - MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具
+- [AudioSmith](https://github.com/hehehai/AudioSmith) - Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source.
+- [TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
+- [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
+- [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 - [bxkp.org](https://github.com/kanpianer/bxkp.org) - 精选全球影视资源。欢迎提交优质网站、报告失效网址、或把网站做得更好。https://bxkp.sld.tw
-- [word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.
+- [word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
 - [liuchunlin-shufa](https://github.com/dvbs2000/liuchunlin-shufa) - 刘春霖小楷书房 · 在线诗词书法生成系统
 - [tv-fresh](https://github.com/wangrongding/tv-fresh) - tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本
 - [esp-labs-web](https://github.com/agharsallah/esp-labs-web) - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.
@@ -485,7 +490,7 @@
 - [OlibTauri](https://github.com/shiyi-0x7f/OlibTauri) - O-lib is a free and open-source software application for PC
 - [FreePEP](https://github.com/siknet/FreePEP) - 人教社电子教材下载器
 - [OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
-- [ESPNowCam](https://github.com/hpsaturn/ESPNowCam) - ESPNowCam, a straightforward video streamer for popular ESP32Cam models, leveraging the ESPNow and WiFi-raw protocols. No need for IPs, routers, or credentials-keeping it simple! :D
+- [ESPNowCam](https://github.com/hpsaturn/ESPNowCam) - ESPNowCam, a straightforward video or data streamer for popular ESP32Cam models, leveraging the ESPNow and WiFi-raw protocols. No need for IPs, routers, or credentials-keeping it simple! :D
 - [ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
 - [human-atlas](https://github.com/ashemag/human-atlas) - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.
 - [OpenCatEsp32-Quadruped-Robot](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) - An ESP32-based open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-e...
@@ -633,7 +638,7 @@
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - Give your agent CAD superpowers.
 - [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use.
 - [IDM-Activation-Script](https://github.com/hanmaoye/IDM-Activation-Script) - IDM 激活脚本
-- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https...
+- [Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks...
 - [sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
 - [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
