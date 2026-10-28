@@ -186,7 +186,6 @@ AI Projects:
 - composio-community/awesome-codex-skills
 - asgeirtj/system_prompts_leaks
 - easychen/howto-make-more-money
-- zhiziX/zhiziX
 - MeiGen-AI/InfiniteTalk
 - opendataloader-project/opendataloader-pdf
 - epiral/bb-sites
@@ -218,6 +217,8 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- kargulstudio/calender-app-design
+- youhunwl/TVAPP
 - HD838A/remote-mic-app
 - YerongAI/Office-Tool
 - 0voice/expert_readed_books
@@ -323,8 +324,8 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- dvbs2000/liuchunlin-shufa
 - RealKai42/qwerty-learner
-- tradecatlabs-projects/shulihuazixuecongshu
 - jbiaojerry/ebook-treasure-chest
 - teng-lin/notebooklm-py
 - Renhuai123/ziwei-doushu
@@ -365,6 +366,8 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- eastwoodnet/EPD-ESP32gateway
+- agharsallah/esp-labs-web
 - espressif/esp-emulator
 - mikroverk/esp32sim
 - apachecn/hardware-fix
@@ -390,6 +393,7 @@ ESP32/Hardware:
 - ycheng517/ar4_ros_driver
 - Duet3D/RepRapFirmware
 Skill Box:
+- PenglongHuang/chinese-novelist-skill
 - vbskycn/iptv
 - product-on-purpose/pm-skills
 - kajisho5/ffmpeg-skill
@@ -410,7 +414,7 @@ Skill Box:
 - shizhilya/yuan
 - 0voice/algorithm-structure
 - iptv-org/iptv
-- Hyumaio/file-checksum
+- fyooji/file-checksum
 - KOP-XIAO/Clash-Merlin
 - AUK9527/Are-u-ok
 - knownsec/ZoomEye-python
@@ -439,6 +443,8 @@ Awesome:
 - sindresorhus/awesome
 - jivoi/awesome-osint
 Dev:
+- kaomei/stickman-video-director
+- andyhuo520/digital-human-koubo
 - Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 - YILS-LIN/short-video-factory
 - terancejiang/financial-report-minesweeper
@@ -463,6 +469,7 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- hehehai/AudioSmith
 - NanmiCoder/MediaCrawler
 - OpenMOSS/MOSS-Image
 - chengyi-ai/native-subtitle-quote-image
@@ -478,12 +485,15 @@ Cloud:
 - zhuima/awesome-cloudflare
 - istoreos/istoreos-cloud
 OS:
+- andyhuo520/MacCheck
+- rddmwmddr/android-ad-cleaner
 - simonlin1212/Vibe-Research
 - dockur/windows
 SmartHome:
 - kritishmohapatra/100_Days_100_IoT_Projects
 - home-assistant/home-assistant.io
 Download:
+- zengshuangzi/mcd-money-saver
 - kkk-bot/HowToGetAlong
 - EthanYoQ/Invoice-Downloader
 - aandrew-me/ytDownloader
@@ -493,6 +503,15 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- makecindy/cindy
+- fasiondog/hikyuu
+- nlzy/turing-unlock
+- orionsheep/wordlink
+- torrentplayer/torrentplayer
+- Kai-Jungsthoefel/SOMA
+- kanpianer/bxkp.org
+- designfuchen/word-atlas
+- wangrongding/tv-fresh
 - ARahim3/DigUp
 - xiaoyang111222/cn-math-taxonomy
 - drunkdream/weread-exporter
