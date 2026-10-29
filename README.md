@@ -231,11 +231,10 @@
 - [strategies](https://github.com/fmzquant/strategies) - quantitative trading with Javascript, Python, C++, PineScript, Blockly, MyLanguage(麦语言)
 - [quantfinance](https://github.com/lh4d/quantfinance) - everything quantitative finance related
 
-## NetworkTools (15)
+## NetworkTools (14)
 - [free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 - [xray-config-toolkit](https://github.com/wuqb2i4f/xray-config-toolkit) - protocol (trojan, vless, vmess) network (grpc, httpupgrade, raw, ws, xhttp) security (none, reality, tls)
 - [Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
-- [proxy-guide](https://github.com/ihmily/proxy-guide) - 一本从零基础到精通的科学上网技术完整教程
 - [cfnew](https://github.com/byJoey/cfnew) - 
 - [Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式
 - [FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone.
@@ -352,7 +351,18 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (304)
+## 未分组 (316)
+- [Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) - Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.
+- [wrong-notebook](https://github.com/margrop/wrong-notebook) - AI 智能错题本：拍照识题、解答、知识点标签、举一反三、组卷打印与掌握度跟踪，可自托管 / AI-powered self-hosted notebook for mistakes
+- [cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+- [calender-app-design](https://github.com/kargulstudio/calender-app-design) - 
+- [EPD-ESP32gateway](https://github.com/eastwoodnet/EPD-ESP32gateway) - Smart E-Paper Display IoT Gateway & Relay System (LilyGO T-Display-S3 & nRF52811 ESL)
+- [hikyuu](https://github.com/fasiondog/hikyuu) - An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting
+- [turing-unlock](https://github.com/nlzy/turing-unlock) - Unlock full speed FP16 tensor core of NVIDIA Turing GPUs
+- [stickman-video-director](https://github.com/kaomei/stickman-video-director) - 🎬 Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
+- [wordlink](https://github.com/orionsheep/wordlink) - AI-powered vocabulary learning — a fine-tuned 1.5B model (SFT+DPO) that runs offline in your browser. Live: wordlink.lifeplayertribe.com
+- [torrentplayer](https://github.com/torrentplayer/torrentplayer) - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.
+- [SOMA](https://github.com/Kai-Jungsthoefel/SOMA) - Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice
 - [digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) - AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …
 - [mcd-money-saver](https://github.com/zengshuangzi/mcd-money-saver) - 基于麦当劳MCP的智能省钱助手
 - [MacCheck](https://github.com/andyhuo520/MacCheck) - MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具
@@ -560,7 +570,7 @@
 - [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
-- [up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 - [Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) - 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。
 - [GordenSuperPPTSkills](https://github.com/GordenSun/GordenSuperPPTSkills) - AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。
 - [ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
@@ -632,7 +642,7 @@
 - [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu...
 - [feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.
-- [new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers...
+- [new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - Cad Kernel for Humans and AI Agents
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
@@ -651,6 +661,7 @@
 - [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli...
 - [asimov-v0](https://github.com/menloresearch/asimov-v0) - v0 of Asimov, an open-source humanoid robot
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
+- [network-proxy-guide](https://github.com/ihmily/network-proxy-guide) - 一本从零基础到精通的科学上网技术完整教程
 - [berkeley-humanoid-lite](https://github.com/HybridRobotics/berkeley-humanoid-lite) - Codebase for Berkeley Humanoid Lite
 - [WanGP](https://github.com/deepbeepmeep/WanGP) - A fast AI Video Generator for the GPU Poor. Supports Minimax H3, LTX-2.3/2.5, Wan 2.1/2.2,  Qwen Image 1/2, Krea 2, Hunyuan Video, LTX  Video and Flux.
 - [clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
