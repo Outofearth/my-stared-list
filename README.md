@@ -359,7 +359,7 @@
 - [EPD-ESP32gateway](https://github.com/eastwoodnet/EPD-ESP32gateway) - Smart E-Paper Display IoT Gateway & Relay System (LilyGO T-Display-S3 & nRF52811 ESL)
 - [hikyuu](https://github.com/fasiondog/hikyuu) - An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting
 - [turing-unlock](https://github.com/nlzy/turing-unlock) - Unlock full speed FP16 tensor core of NVIDIA Turing GPUs
-- [stickman-video-director](https://github.com/kaomei/stickman-video-director) - 🎬 Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
+- [stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
 - [wordlink](https://github.com/orionsheep/wordlink) - AI-powered vocabulary learning — a fine-tuned 1.5B model (SFT+DPO) that runs offline in your browser. Live: wordlink.lifeplayertribe.com
 - [torrentplayer](https://github.com/torrentplayer/torrentplayer) - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.
 - [SOMA](https://github.com/Kai-Jungsthoefel/SOMA) - Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice
@@ -425,7 +425,7 @@
 - [CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 - [yolo-training-template](https://github.com/computer-vision-with-marco/yolo-training-template) - In this repo there are some tips and a template to train your YOLO model for any kind of computer vision application
-- [how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) - 失业怎么办？被裁员后怎么办？免费开源失业自救手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流，50项行动任务、6份实操SOP，附北京上海政策原文｜What to do after a layoff in China
+- [how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) - 被裁员/失业后怎么办：中国打工人失业自救手册｜N+1/2N、失业金、医保社保、公积金、求职与现金流，附政策原文并标注核验日期｜China layoff survival handbook
 - [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
@@ -438,7 +438,7 @@
 - [qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [jumper](https://github.com/KingKongRobotics/jumper) - 🦀 Jumper — an crab robot.
-- [google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - Google Maps Scraper & Lead Generation Tool. Extract 50+ data points including business emails, phone numbers, and social profiles. Includes enrichment features, API access, and no recurring fees
+- [google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - Google Maps Scraper & Lead Generation Tool. Extract 50+ data points including business emails, phone numbers, and social profiles. Includes enrichment features, API access, and a generous free plan wi...
 - [PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [floorplan-3d](https://github.com/wy51ai/floorplan-3d) - 
 - [short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
@@ -519,7 +519,7 @@
 - [kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 - [LANFileShare](https://github.com/hasderhi/LANFileShare) - A cool tool to easily share files on your local network. Written in C# using .NET Windows Forms
 - [instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
-- [TREK](https://github.com/liketrek/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
+- [TREK](https://github.com/liketrek/TREK) - The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routin...
 - [logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) - Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
 - [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
