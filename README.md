@@ -351,7 +351,10 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (316)
+## 未分组 (319)
+- [OpenScan3](https://github.com/OpenScan-org/OpenScan3) - Firmware for controlling OpenScan devices.
+- [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+- [survival-llm](https://github.com/anonnerdfrenzy/survival-llm) - A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.
 - [Ming-3.0-tts](https://github.com/inclusionAI/Ming-3.0-tts) - Ming-3.0-tts is an open-source TTS model family with 0.5B dense and 7.9B-A1.3B MoE variants, supporting multilingual speech, voice cloning, voice design, and natural-language control.
 - [wrong-notebook](https://github.com/margrop/wrong-notebook) - AI 智能错题本：拍照识题、解答、知识点标签、举一反三、组卷打印与掌握度跟踪，可自托管 / AI-powered self-hosted notebook for mistakes
 - [cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
@@ -370,9 +373,9 @@
 - [TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
 - [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
-- [bxkp.org](https://github.com/kanpianer/bxkp.org) - 精选全球影视资源。欢迎提交优质网站、报告失效网址、或把网站做得更好。https://bxkp.sld.tw
+- [bxkp.org](https://github.com/kanpianer/bxkp.org) - 不想看片：精选全球影视资源。欢迎提交优质网站、报告失效网址、或把网站做得更好。https://bxkp.sld.tw
 - [word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
-- [liuchunlin-shufa](https://github.com/dvbs2000/liuchunlin-shufa) - 刘春霖小楷书房 · 在线诗词书法生成系统
+- [liuchunlin-shufa](https://github.com/dvbs2000/liuchunlin-shufa) - 刘春霖 AI 小楷书房 · 在线诗词书法生成系统（版权约定：个人免费，商用收费 ｜ 合作邮箱：sdicfund@hotmail.com）
 - [tv-fresh](https://github.com/wangrongding/tv-fresh) - tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本
 - [esp-labs-web](https://github.com/agharsallah/esp-labs-web) - The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages.
 - [Vibe-Research](https://github.com/simonlin1212/Vibe-Research) - Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.
@@ -507,7 +510,7 @@
 - [microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [unbagrnd](https://github.com/zidniryi/unbagrnd) - Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, Linux and Android.
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) - BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
-- [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus o...
+- [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best...
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
 - [nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
@@ -658,7 +661,7 @@
 - [ekko-studio](https://github.com/EKKOLearnAI/ekko-studio) - Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.
 - [aero-hand-open](https://github.com/Chestnut-Robotics/aero-hand-open) - https://shop.tetheria.ai/
 - [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) - GPT-Image-2 API and Prompts
-- [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli...
+- [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat...
 - [asimov-v0](https://github.com/menloresearch/asimov-v0) - v0 of Asimov, an open-source humanoid robot
 - [AIComicBuilder](https://github.com/LingyiChen-AI/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
 - [network-proxy-guide](https://github.com/ihmily/network-proxy-guide) - 一本从零基础到精通的科学上网技术完整教程
