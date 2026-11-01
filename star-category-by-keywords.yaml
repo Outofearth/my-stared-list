@@ -1,4 +1,7 @@
 AI/ML:
+- anhao/ai-pose-gallery-zh
+- anonnerdfrenzy/survival-llm
+- inclusionAI/Ming-3.0-tts
 - jangviktor-web/nihaixia-app
 - jangviktor-web/nihaixia
 - PlaiPin/xai
@@ -311,7 +314,7 @@ NetworkTools:
 - proxifly/free-proxy-list
 - wuqb2i4f/xray-config-toolkit
 - eooce/Cloudflare-proxy
-- ihmily/proxy-guide
+- ihmily/network-proxy-guide
 - byJoey/cfnew
 - yonggekkk/Cloudflare-vless-trojan
 - DigitalPlatDev/FreeDomain
@@ -324,6 +327,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- margrop/wrong-notebook
 - dvbs2000/liuchunlin-shufa
 - RealKai42/qwerty-learner
 - jbiaojerry/ebook-treasure-chest
@@ -503,6 +507,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- OpenScan-org/OpenScan3
 - makecindy/cindy
 - fasiondog/hikyuu
 - nlzy/turing-unlock
