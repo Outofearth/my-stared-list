@@ -81,7 +81,7 @@
 - [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data <= 10 mins!
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 
-## 3DM/P/AI (29)
+## 3DM/P/AI (28)
 - [TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
@@ -101,7 +101,6 @@
 - [S4_Slicer](https://github.com/jyjblrd/S4_Slicer) - Generic Non-Planar Slicer
 - [Smoothificator](https://github.com/TengerTechnologies/Smoothificator) - A script that enables you to 3D print with different Layerheights on the inside and outside of your print
 - [PrusaSlicer](https://github.com/teachingtechYT/PrusaSlicer) - A fork of PrusaSlicer with non-planar slicing. Based on https://github.com/DrEricEbert/Slic3r_NonPlanar_Slicing
-- [PolyDye](https://github.com/cooljjj33/PolyDye) - Full Color Printer Mod for Marlin 3D Printers
 - [dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [Unique3D](https://github.com/AiuniAI/Unique3D) - [NeurIPS 2024] Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 - [split-flap](https://github.com/JonnyBooker/split-flap) - Code for split-flap display based on: https://github.com/Dave19171/split-flap
@@ -351,7 +350,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (319)
+## 未分组 (320)
+- [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL...
 - [OpenScan3](https://github.com/OpenScan-org/OpenScan3) - Firmware for controlling OpenScan devices.
 - [ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) - 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
 - [survival-llm](https://github.com/anonnerdfrenzy/survival-llm) - A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.
@@ -471,7 +471,7 @@
 - [financial-report-minesweeper](https://github.com/terancejiang/financial-report-minesweeper) - 财报排雷工具 - A-share financial report fraud/risk detection based on Tang Chao's methodology. Claude Code Skill with 28-rule checklist.
 - [AIHOT](https://github.com/KKKKhazix/AIHOT) - 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 - [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-- [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
+- [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：支持语义搜索的高性能中国古诗词 API 服务
 - [lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) - Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.
 - [mesh2step](https://github.com/tommasobbianchi/mesh2step) - Faceted triangle-mesh to B-Rep STEP converter (OCCT-backed, no surface fitting, no primitive recognition)
 - [laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque...
@@ -513,7 +513,7 @@
 - [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best...
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
-- [nativePDF-structurer](https://github.com/crunz-ai/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
+- [nativePDF-structurer](https://github.com/crunz-ailab/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license...
 - [rnskill](https://github.com/Pluviobyte/rnskill) - 雪踏乌云的 AI Agent Skills 集合
 - [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
