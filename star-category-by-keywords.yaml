@@ -142,7 +142,6 @@ AI/ML:
 - jyjblrd/S4_Slicer
 - TengerTechnologies/Smoothificator
 - teachingtechYT/PrusaSlicer
-- cooljjj33/PolyDye
 - dreamgaussian/dreamgaussian
 - AiuniAI/Unique3D
 - VAST-AI-Research/TripoSR
@@ -507,6 +506,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Oldcircle/geo-sleuth
 - OpenScan-org/OpenScan3
 - makecindy/cindy
 - fasiondog/hikyuu
@@ -577,7 +577,7 @@ MindMap/Doc:
 - ashemag/human-atlas
 - zidniryi/unbagrnd
 - JimLiu/baoyu-design
-- crunz-ai/nativePDF-structurer
+- crunz-ailab/nativePDF-structurer
 - sherlock-project/sherlock
 - wy51ai/edulab
 - FareedKhan-dev/kimi-k3-in-c
