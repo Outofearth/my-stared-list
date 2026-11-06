@@ -151,7 +151,7 @@
 - [firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of...
 - [page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
@@ -350,7 +350,18 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (325)
+## 未分组 (336)
+- [OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo...
+- [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
+- [libreyolo](https://github.com/LibreYOLO/libreyolo) - LibreYOLO is a MIT licensed open source computer vision library
+- [Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web to get things done for you.
+- [WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
+- [Trackr](https://github.com/5151561/Trackr) - 公交实时到站查询与动态追踪
+- [67.js](https://github.com/codepawl/67.js) - A WebGL2 3D engine that AI agents drive
+- [English](https://github.com/lilinji/English) - 学习英语的一个小站
+- [dsh-weread](https://github.com/zhaohongxuan/dsh-weread) - 微信读书 dsh 插件：书架管理、年度书墙、阅读统计、AI 总结 | DeepSeek Harness plugin for WeChat Reading
+- [WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) - WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.
 - [NOIR](https://github.com/Verlintas/NOIR) - 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.
 - [translate-book](https://github.com/deusyu/translate-book) - Agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents.
 - [cicada](https://github.com/wquguru/cicada) - 知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.
@@ -651,7 +662,7 @@
 - [feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.
 - [new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
-- [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - Cad Kernel for Humans and AI Agents
+- [OpenGeometry](https://github.com/OpenGeometry-io/OpenGeometry) - Geometry CAD Kernel for Humans and AI Agents
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [yao-open-prompts](https://github.com/yaojingang/yao-open-prompts) - Practical bilingual AI prompt library for prompt engineering, work, learning, content, marketing, and everyday use.
