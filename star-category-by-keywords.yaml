@@ -1,4 +1,6 @@
 AI/ML:
+- maillab/cloud-mail
+- LibreYOLO/libreyolo
 - anhao/ai-pose-gallery-zh
 - anonnerdfrenzy/survival-llm
 - inclusionAI/Ming-3.0-tts
@@ -72,6 +74,7 @@ AI/ML:
 - AI-FanGe/OpenAIglasses_for_Navigation
 - roboflow/supervision
 - v2fly/domain-list-community
+- gendotnew/ai
 - opendatalab/MinerU
 - Shubhamsaboo/awesome-llm-apps
 - x1xhlol/system-prompts-and-models-of-ai-tools
@@ -104,6 +107,7 @@ AI/ML:
 - RVC-Project/Retrieval-based-Voice-Conversion-WebUI
 - AntonOsika/gpt-engineer
 3DM/P/AI:
+- wquguru/cicada
 - mfranzon/print3d
 - wy51ai/floorplan-3d
 - tommasobbianchi/mesh2step
@@ -219,6 +223,7 @@ AI Projects:
 - effusiveperiscope/so-vits-svc
 - suno-ai/bark
 TopGoodTool:
+- hehonghui/awesome-english-ebooks
 - kargulstudio/calender-app-design
 - youhunwl/TVAPP
 - HD838A/remote-mic-app
@@ -263,7 +268,6 @@ TopGoodTool:
 - fish2018/pansou
 - SuperManito/LinuxMirrors
 - BeyondDimension/SteamTools
-- linsa-io/linsa
 - mayswind/ezbookkeeping
 - Aleksoid1978/MPC-BE
 - imfile-io/imfile-desktop
@@ -273,6 +277,7 @@ TopGoodTool:
 - BCUninstaller/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
+- paperswithbacktest/awesome-systematic-trading
 - simonlin1212/TradingAgents-astock
 - simonlin1212/a-stock-data
 - shy3130/tick-stock-panel
@@ -326,6 +331,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- deusyu/translate-book
 - margrop/wrong-notebook
 - dvbs2000/liuchunlin-shufa
 - RealKai42/qwerty-learner
@@ -369,6 +375,7 @@ ClawFamily:
 - 666ghj/BettaFish
 - awesomedata/awesome-public-datasets
 ESP32/Hardware:
+- tapilot-ai/tapilot
 - eastwoodnet/EPD-ESP32gateway
 - agharsallah/esp-labs-web
 - espressif/esp-emulator
@@ -442,6 +449,7 @@ Web:
 - meshtastic/web-flasher
 - browser-use/web-ui
 Awesome:
+- awesome-dsh-plugin/awesome-dsh-plugin
 - lukasz-madon/awesome-remote-job
 - sindresorhus/awesome
 - jivoi/awesome-osint
@@ -472,6 +480,7 @@ Dev:
 - PyQt5/PyQt
 - cxinping/PyQt5
 Media:
+- woniuniuniu/dsh-media-desk
 - hehehai/AudioSmith
 - NanmiCoder/MediaCrawler
 - OpenMOSS/MOSS-Image
@@ -488,6 +497,7 @@ Cloud:
 - zhuima/awesome-cloudflare
 - istoreos/istoreos-cloud
 OS:
+- arnold117/iOS-NOIR
 - andyhuo520/MacCheck
 - rddmwmddr/android-ad-cleaner
 - simonlin1212/Vibe-Research
@@ -506,6 +516,23 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Roboparty/RP1
+- storytold/craft-anything
+- aoguai/LiYing
+- umarz317/WatchPointer
+- ppmpreetham/BUI
+- fqscfqj/Y2A-Auto
+- ob-f/OpenBot
+- AlexxIT/go2rtc
+- wangzan101/Mika
+- babygoton/WorkDaddy
+- 5151561/Trackr
+- codepawl/67.js
+- lilinji/English
+- zhaohongxuan/dsh-weread
+- Tencent/WeVisOne-VL
+- Verlintas/NOIR
+- guofei9987/blind_watermark
 - Oldcircle/geo-sleuth
 - OpenScan-org/OpenScan3
 - makecindy/cindy
