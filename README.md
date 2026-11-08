@@ -166,7 +166,7 @@
 - [video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [so-vits-svc](https://github.com/effusiveperiscope/so-vits-svc) - so-vits-svc
 
-## TopGoodTool (37)
+## TopGoodTool (36)
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
@@ -181,7 +181,7 @@
 - [AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 5...
 - [Pilipili-AutoVideo](https://github.com/OpenDemon/Pilipili-AutoVideo) - 🎬 全自动 AI 视频代理 · 一句话生成带字幕成片 · Fully Automated AI Video Agent · Local Deployment
 - [res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-- [editor](https://github.com/pascalorg/editor) - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+- [editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
 - [pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
 - [books](https://github.com/frappe/books) - Free Accounting Software
@@ -195,7 +195,6 @@
 - [pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 https://t.me/s/webhtv
 - [LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-- [linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.
 - [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.
 - [imfile-desktop](https://github.com/imfile-io/imfile-desktop) - A full-featured download manager.
@@ -350,7 +349,17 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (337)
+## 未分组 (348)
+- [RP1](https://github.com/Roboparty/RP1) - RP1: An OpenSource Full-Stack Platform for Agentic Humanoids
+- [craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
+- [LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
+- [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- [WatchPointer](https://github.com/umarz317/WatchPointer) - Use your Apple Watch as a pointer for your Mac. Point to move, tap to click, hold to drag.
+- [dsh-media-desk](https://github.com/woniuniuniu/dsh-media-desk) - DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜
+- [BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI
+- [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- [cloud-mail](https://github.com/maillab/cloud-mail) - An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
+- [Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
 - [iOS-NOIR](https://github.com/arnold117/iOS-NOIR) - No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR)
 - [OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo...
 - [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
@@ -401,7 +410,7 @@
 - [DigUp](https://github.com/ARahim3/DigUp) - Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
 - [cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
 - [qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) - 倪海厦汉唐中医安卓客户端 · 中医六经辨证、伤寒论、子午流注取穴，灵龟八法，五运六气，小六壬，梅花易数，紫微斗数、易经、八字四柱排盘、周公解梦、小儿关煞、每日黄历、道教神仙节日、节气养生、玉匣记身体占，离线安卓应用中医诊断玄学助手：一款完全免费的 Flutter/Dart Android App，基于倪海厦《人纪》（伤寒论/金匮要略/黄帝内经/针灸大成/神农本草经）。核心功能：六经辨证智能问诊（太...
+- [nihaixia-app](https://github.com/jangviktor-web/nihaixia-app) - AI 讲义问答 · 倪海厦汉唐中医 AI 辅助诊断安卓客户端｜可选「问倪师AI」：本地讲义检索 + 自配模型（OpenAI 兼容 / 智谱 GLM-4.7-Flash / 书生 Atria-Dawn），默认关闭零联网；六经辨证智能问诊、伤寒论 394 条、金匮 433 篇、322 首经方、465 味本草、408 穴位、1257 例倪师医案、本草讲稿 335 篇、针灸讲稿 72 篇；子午流注 / 灵...
 - [TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) - A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。
 - [a-stock-data](https://github.com/simonlin1212/a-stock-data) - A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings...
 - [nihaixia](https://github.com/jangviktor-web/nihaixia) - 倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127）...
@@ -685,6 +694,7 @@
 - [berkeley-humanoid-lite](https://github.com/HybridRobotics/berkeley-humanoid-lite) - Codebase for Berkeley Humanoid Lite
 - [WanGP](https://github.com/deepbeepmeep/WanGP) - A fast AI Video Generator for the GPU Poor. Supports Minimax H3, LTX-2.3/2.5, Wan 2.1/2.2,  Qwen Image 1/2, Krea 2, Hunyuan Video, LTX  Video and Flux.
 - [clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
+- [ai](https://github.com/gendotnew/ai) - 
 - [CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [file-checksum](https://github.com/fyooji/file-checksum) - 计算/校验文件哈希值，支持 md5, sha1, sha256
 - [Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
