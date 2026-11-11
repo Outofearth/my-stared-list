@@ -1,4 +1,5 @@
 AI/ML:
+- tashfeenahmed/freellmapi
 - maillab/cloud-mail
 - LibreYOLO/libreyolo
 - anhao/ai-pose-gallery-zh
@@ -277,6 +278,7 @@ TopGoodTool:
 - BCUninstaller/Bulk-Crap-Uninstaller
 - termux/termux-app
 Finance:
+- myhhub/stock
 - paperswithbacktest/awesome-systematic-trading
 - simonlin1212/TradingAgents-astock
 - simonlin1212/a-stock-data
