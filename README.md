@@ -349,7 +349,10 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (371)
+## 未分组 (374)
+- [SKiD-SLAM](https://github.com/sparolab/SKiD-SLAM) - SOTA Distributed Multi-Robot LiDAR SLAM @ IEEE T-FR'26
+- [openamr-platform-hw](https://github.com/openAMRobot/openamr-platform-hw) - OpenAMRobot mobile-base hardware: mechanical and electrical designs, CAD, BOMs, wiring, manufacturing, and assembly assets.
+- [PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
 - [CFPilot](https://github.com/xmwengxing/CFPilot) - Cloudflare Workers 代理微内核 · 真连接优选面板 · 一键部署（VLESS/Trojan/XHTTP + 优选订阅 + 本地真连接优选器 + 中文部署向导）
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [GenCAD](https://github.com/ferdous-alam/GenCAD) - 
@@ -363,7 +366,7 @@
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [stock-analysis-plugin](https://github.com/Weaxs/stock-analysis-plugin) - Multi-market stock analysis, screening & backtesting plugin for AI agents — 39 tools + 20 strategy skills across A/HK/US/JP/KR/TW markets, works with Pi Agent, Hermes, OpenClaw & Deepseek Harness
+- [stock-analysis-plugin](https://github.com/Weaxs/stock-analysis-plugin) - Stock research toolkit for AI agents — 73 tools + 21 skills for analysis, screening & backtesting across A/HK/US/JP/KR/TW markets. Works with Pi Agent, Hermes, OpenClaw, DeepSeek Harness (dsh) and any...
 - [Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
 - [aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,...
@@ -558,7 +561,7 @@
 - [microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 - [unbagrnd](https://github.com/zidniryi/unbagrnd) - Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, Linux and Android.
 - [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director) - BigBanana AI Director是一个工业级一站式  AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。  它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
-- [baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best...
+- [open-artifacts](https://github.com/JimLiu/open-artifacts) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best...
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 - [ComfyUI-Lux3D](https://github.com/manycore-research/ComfyUI-Lux3D) - A ComfyUI extension providing nodes for generating 3D models from images and rendering/visualizing 3D assets within your workflow.
 - [nativePDF-structurer](https://github.com/crunz-ailab/nativePDF-structurer) - 一个面向大体量数字原生 PDF 的、零 OCR、零模型依赖的文档结构化工具。
@@ -639,7 +642,7 @@
 - [Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, ...
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
 - [image-extender](https://github.com/boona13/image-extender) - Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.
-- [omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l...
+- [omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects...
 - [odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
