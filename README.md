@@ -349,7 +349,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (373)
+## 未分组 (374)
+- [zx-study](https://github.com/132465798a/zx-study) - 🎓 正贤学习平台｜小学 1-6 年级语文 · 数学 · 英语｜✏️ 离线练习 · 📝 模拟考试 · 📕 错题本 · 📊 学习统计 · 🈶 汉字笔顺 · 🎧 英语听力 · 🖨️ 线下组卷与 PDF 打印｜Electron + Vue 3 + SQLite
 - [SKiD-SLAM](https://github.com/sparolab/SKiD-SLAM) - SOTA Distributed Multi-Robot LiDAR SLAM @ IEEE T-FR'26
 - [openamr-platform-hw](https://github.com/openAMRobot/openamr-platform-hw) - OpenAMRobot mobile-base hardware: mechanical and electrical designs, CAD, BOMs, wiring, manufacturing, and assembly assets.
 - [PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
@@ -367,7 +368,7 @@
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [stock-analysis-plugin](https://github.com/Weaxs/stock-analysis-plugin) - Stock research toolkit for AI agents — 73 tools + 21 skills for analysis, screening & backtesting across A/HK/US/JP/KR/TW markets. Works with Pi Agent, Hermes, OpenClaw, DeepSeek Harness (dsh) and any...
-- [Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）
+- [Erosion-CN](https://github.com/Kianuni/Erosion-CN) - iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)
 - [aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,...
 - [pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets
