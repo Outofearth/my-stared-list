@@ -10,7 +10,6 @@ AI/ML:
 - PlaiPin/xai
 - LancelotRar/best-cf-domains
 - leemysw/yovoice
-- onehumanbeing/esp32-iphone-agent
 - martin-olivier/airgorah
 - computer-vision-with-marco/yolo-training-template
 - addyosmani/agent-skills
@@ -313,6 +312,7 @@ Finance:
 - fmzquant/strategies
 - lh4d/quantfinance
 NetworkTools:
+- ZiChuanLan/freebie-radar
 - hagezi/dns-blocklists
 - Ebony-Vinyl/dsh-our-free-model
 - zizifn/edgetunnel
@@ -339,6 +339,7 @@ NetworkTools:
 - Onezyh/Worker-Vless-2-SUB
 - freefq/free
 Books/Learning:
+- 132465798a/zx-study
 - virgiliojr94/book-to-skill
 - WANGXIN-567/weread-book-exporter
 - deusyu/translate-book
@@ -534,6 +535,7 @@ MindMap/Doc:
 - Robbyant/lingbot-map
 - wanglin2/mind-map
 其他:
+- Chen-Yu-Qing2005/tuomin
 - sparolab/SKiD-SLAM
 - openAMRobot/openamr-platform-hw
 - oomol-lab/pdf-craft
@@ -541,7 +543,7 @@ MindMap/Doc:
 - FiloSottile/age
 - h4ckf0r0day/obscura
 - wzdnzd/aggregator
-- huamidev/GestaltX
+- huami-dev/GestaltX
 - Roboparty/RP1
 - storytold/craft-anything
 - aoguai/LiYing
