@@ -416,7 +416,7 @@
 - [EPD-ESP32gateway](https://github.com/eastwoodnet/EPD-ESP32gateway) - Smart E-Paper Display IoT Gateway & Relay System (LilyGO T-Display-S3 & nRF52811 ESL)
 - [hikyuu](https://github.com/fasiondog/hikyuu) - An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis and backtesting Trading model R&D · Ultra-fast engine · Efficient backtesting
 - [turing-unlock](https://github.com/nlzy/turing-unlock) - Unlock full speed FP16 tensor core of NVIDIA Turing GPUs
-- [stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
+- [stickman-video-director](https://github.com/kaomei/stickman-video-director) - AI Agent Skill (Claude Code, Codex & more): Turn any script into animated stickman videos for faceless YouTube, Shorts & TikTok. 14+ styles with voiceover, captions & SFX. Free & open-source (MIT).
 - [wordlink](https://github.com/orionsheep/wordlink) - AI-powered vocabulary learning — a fine-tuned 1.5B model (SFT+DPO) that runs offline in your browser. Live: wordlink.lifeplayertribe.com
 - [torrentplayer](https://github.com/torrentplayer/torrentplayer) - Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.
 - [SOMA](https://github.com/Kai-Jungsthoefel/SOMA) - Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice
