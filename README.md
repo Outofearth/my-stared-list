@@ -348,7 +348,8 @@
 - [lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 
-## 未分组 (387)
+## 未分组 (388)
+- [jgcj](https://github.com/wokaotianshi123/jgcj) - 采集源根据影视站之家网站产生的结果
 - [gary-ai-live-avatar](https://github.com/garycaogan/gary-ai-live-avatar) - AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）
 - [cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) - 赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）
 - [LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
@@ -364,7 +365,7 @@
 - [zx-study](https://github.com/132465798a/zx-study) - 🎓 正贤学习平台｜小学 1-6 年级语文 · 数学 · 英语｜✏️ 离线练习 · 📝 模拟考试 · 📕 错题本 · 📊 学习统计 · 🈶 汉字笔顺 · 🎧 英语听力 · 🖨️ 线下组卷与 PDF 打印｜Electron + Vue 3 + SQLite
 - [SKiD-SLAM](https://github.com/sparolab/SKiD-SLAM) - SOTA Distributed Multi-Robot LiDAR SLAM @ IEEE T-FR'26
 - [openamr-platform-hw](https://github.com/openAMRobot/openamr-platform-hw) - OpenAMRobot mobile-base hardware: mechanical and electrical designs, CAD, BOMs, wiring, manufacturing, and assembly assets.
-- [PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - PancakeSlicer is a Self-Hostable Slicer for Non-Planar 3D Printing.
+- [PancakeSlicer](https://github.com/ZimengXiong/PancakeSlicer) - Self-hosted 3D printing slicer with a web UI, built on the OrcaSlicer engine, with non-planar slicing. Docker (amd64/arm64) + desktop.
 - [CFPilot](https://github.com/xmwengxing/CFPilot) - Cloudflare Workers 代理微内核 · 真连接优选面板 · 一键部署（VLESS/Trojan/XHTTP + 优选订阅 + 本地真连接优选器 + 中文部署向导）
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [GenCAD](https://github.com/ferdous-alam/GenCAD) - 
@@ -434,7 +435,7 @@
 - [MacCheck](https://github.com/andyhuo520/MacCheck) - MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具
 - [AudioSmith](https://github.com/hehehai/AudioSmith) - Speech, voices, stories, audiobooks, dubbing and transcription, made on your Mac. Free and open source.
 - [TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
-- [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
+- [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 agent harness｜🤝 Infistar.cc 赞助 · 注册送 $5｜AI novel writing skill
 - [android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) - 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 - [bxkp.org](https://github.com/kanpianer/bxkp.org) - 不想看片：精选全球影视资源。欢迎提交优质网站、报告失效网址、或把网站做得更好。https://bxkp.sld.tw
 - [word-atlas](https://github.com/designfuchen/word-atlas) - 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.
@@ -491,7 +492,7 @@
 - [CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 - [yolo-training-template](https://github.com/computer-vision-with-marco/yolo-training-template) - In this repo there are some tips and a template to train your YOLO model for any kind of computer vision application
-- [how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) - 被裁员/失业后怎么办：中国打工人失业自救手册｜N+1/2N、失业金、医保社保、公积金、求职与现金流，附政策原文并标注核验日期｜China layoff survival handbook
+- [how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) - 被裁员/失业后怎么办：中国打工人失业自救手册｜N+1/2N、失业金、医保社保、公积金、求职与现金流，附政策原文并标注核验日期｜China layoff survival handbook ｜ 微信 AIPMAndy · 官网 https://metaver.vip/
 - [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
@@ -659,7 +660,7 @@
 - [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen...
 - [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) - An open-source Skill collection for GEO content and workflows, continuously updated.
-- [Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
+- [Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust coding agent for terminal, web, and desktop. Any model, multi-agent fleets, MCP & plugins, OS sandboxing, and session receipts.
 - [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog...
 - [xiaoai-patch](https://github.com/duhow/xiaoai-patch) - Patching for XiaoAi Speakers (小爱音箱), add custom binaries and open source software. Tested on LX06, LX01, LX05, L09A
 - [stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
